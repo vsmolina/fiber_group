@@ -28,21 +28,32 @@ pandas google finance
 among others
 
 ## Rough breakdown of tasks
-Philippe
-* Pull bls.gov data*
-* Pull fcc.gov data*
-* Setup API connections*
+**Philippe**
 
-Colin
-* Pull corporate financials *
-* Markdown*
-* Visualizations *
+1. *Pull bls.gov data*
 
-Michael
-* Pull financial data by interner divisions*
-* Standard deviation*
+2. *Pull fcc.gov data*
 
-Victor
-* Correlation between median income and computer access *
-* Visualization*
-* API connections*
+3. *Setup API connections*
+
+**Colin**
+
+1. *Pull corporate financials*
+
+2. *Markdown*
+
+3. *Visualizations*
+
+**Michael**
+
+1. *Pull financial data by interner divisions*
+
+2. *Standard deviation*
+
+**Victor**
+
+1. *Correlation between median income and computer access*
+
+2. *Visualization*
+
+3. *API connections*
