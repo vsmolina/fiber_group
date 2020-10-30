@@ -1,9 +1,4 @@
-Geography,Quarterly,July,August,September,Total,Average,September,Total
-,Establishments,Employment,Employment,Employment,Quarterly,Weekly,Employment,Quarterly
-,,,,,Wages,Wage,Location,Wages
-,,,,,,,Quotient,Location
-,,,,,,,,Quotient
-,,,,,,,,
+Geography,Quarterly_Establishments,July_Employment,August_Employment,September_Employment,Total_Quarterly_Wages,Average_Weekly_Wage,September_Employment_Location_Quotient,Total_Quarterly_Wages_Location_Quotient
 U.S. TOTAL,"10,040,113","145,351,404","146,310,040","146,882,505","$2,003,929,169,145 ","$1,055 ",1,1
 Alabama,"127,492","1,956,628","1,964,325","1,967,108","22,573,139,515",885,1,1
 "Autauga County, Alabama",876,"10,920","11,024","10,913","103,437,555",726,1,1
