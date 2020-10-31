@@ -1,4 +1,4 @@
-Geography,Quarterly_Establishments,July_Employment,August_Employment,September_Employment,Total_Quarterly_Wages,Average_Weekly_Wage,September_Employment_Location_Quotient,Total_Quarterly_Wages_Location_Quotient
+ÔªøGeography,Quarterly_Establishments,July_Employment,August_Employment,September_Employment,Total_Quarterly_Wages,Average_Weekly_Wage,September_Employment_Location_Quotient,Total_Quarterly_Wages_Location_Quotient
 U.S. TOTAL,"10,189,894","147,574,087","148,673,869","149,191,158","$2,112,260,791,432 ","$1,094 ",1,1
 Alabama,"129,510","1,988,720","1,994,135","1,997,399","23,575,590,252",910,1,1
 "Autauga County, Alabama",886,"11,081","11,181","11,136","107,108,869",740,1,1
@@ -1864,7 +1864,7 @@ New Mexico,"62,132","833,960","839,692","835,725","9,661,950,980",889,1,1
 "Colfax County, New Mexico",537,"4,061","4,286","5,331","36,626,973",618,1,1
 "Curry County, New Mexico","1,287","17,221","17,228","16,846","161,253,534",725,1,1
 "De Baca County, New Mexico",78,434,445,450,"3,848,279",668,1,1
-"Do§a Ana County, New Mexico","5,015","73,170","74,316","73,204","731,664,260",765,1,1
+"Do¬§a Ana County, New Mexico","5,015","73,170","74,316","73,204","731,664,260",765,1,1
 "Eddy County, New Mexico","1,914","32,814","33,065","33,356","525,088,731","1,221",1,1
 "Grant County, New Mexico",758,"9,226","9,271","9,256","95,836,642",797,1,1
 "Guadalupe County, New Mexico",165,"1,410","1,447","1,483","11,461,095",609,1,1
@@ -3248,30 +3248,30 @@ Puerto Rico,"46,830","874,543","876,185","867,481","6,028,777,948",531,1,1
 "Aguadilla Municipio, Puerto Rico",888,"17,608","17,650","17,364","126,796,058",556,1,1
 "Aguas Buenas Municipio, Puerto Rico",148,"1,693","1,691","1,671","8,388,093",383,1,1
 "Aibonito Municipio, Puerto Rico",312,"5,607","5,590","5,524","36,804,489",508,1,1
-"A§asco Municipio, Puerto Rico",263,"5,025","5,045","4,931","34,343,123",528,1,1
+"A¬§asco Municipio, Puerto Rico",263,"5,025","5,045","4,931","34,343,123",528,1,1
 "Arecibo Municipio, Puerto Rico","1,076","20,837","20,772","20,543","131,087,899",487,1,1
 "Arroyo Municipio, Puerto Rico",91,"2,141","2,145","2,118","16,495,571",594,1,1
 "Barceloneta Municipio, Puerto Rico",275,"10,204","10,175","10,343","76,236,026",573,1,1
 "Barranquitas Municipio, Puerto Rico",330,"2,974","2,943","2,677","14,637,732",393,1,1
-"Bayam¢n Municipio, Puerto Rico","2,906","51,780","52,167","51,312","324,836,794",483,1,1
+"Bayam¬¢n Municipio, Puerto Rico","2,906","51,780","52,167","51,312","324,836,794",483,1,1
 "Cabo Rojo Municipio, Puerto Rico",554,"5,842","5,746","5,574","23,740,002",319,1,1
 "Caguas Municipio, Puerto Rico","2,257","44,036","43,918","43,825","292,751,562",513,1,1
 "Camuy Municipio, Puerto Rico",335,"3,695","3,781","3,548","17,658,038",370,1,1
-"Can¢vanas Municipio, Puerto Rico",333,"4,967","4,967","4,844","28,584,660",446,1,1
+"Can¬¢vanas Municipio, Puerto Rico",333,"4,967","4,967","4,844","28,584,660",446,1,1
 "Carolina Municipio, Puerto Rico","1,967","45,999","45,988","45,289","292,939,885",492,1,1
-"Cata§o Municipio, Puerto Rico",314,"10,595","10,600","10,438","82,190,829",600,1,1
+"Cata¬§o Municipio, Puerto Rico",314,"10,595","10,600","10,438","82,190,829",600,1,1
 "Cayey Municipio, Puerto Rico",480,"9,526","9,528","9,445","62,668,883",507,1,1
 "Ceiba Municipio, Puerto Rico",100,"1,212","1,222","1,147","6,481,222",418,1,1
 "Ciales Municipio, Puerto Rico",138,"1,597","1,574","1,545","7,337,212",359,1,1
 "Cidra Municipio, Puerto Rico",366,"6,004","6,022","5,787","38,069,064",493,1,1
 "Coamo Municipio, Puerto Rico",290,"3,265","3,287","3,234","16,349,189",386,1,1
-"Comer°o Municipio, Puerto Rico",132,"1,638","1,640","1,575","8,065,784",384,1,1
+"Comer¬°o Municipio, Puerto Rico",132,"1,638","1,640","1,575","8,065,784",384,1,1
 "Corozal Municipio, Puerto Rico",313,"3,850","3,820","3,651","18,824,153",384,1,1
 "Culebra Municipio, Puerto Rico",51,430,436,443,"2,114,146",373,1,1
 "Dorado Municipio, Puerto Rico",562,"8,689","8,866","8,907","59,703,438",521,1,1
 "Fajardo Municipio, Puerto Rico",512,"9,217","9,194","9,008","55,255,616",465,1,1
 "Florida Municipio, Puerto Rico",66,"1,040","1,055","1,034","5,083,309",375,1,1
-"Gu†nica Municipio, Puerto Rico",115,"2,959","2,975","3,126","13,018,157",332,1,1
+"Gu¬†nica Municipio, Puerto Rico",115,"2,959","2,975","3,126","13,018,157",332,1,1
 "Guayama Municipio, Puerto Rico",451,"10,164","10,135","9,816","63,106,080",484,1,1
 "Guayanilla Municipio, Puerto Rico",128,"2,559","2,558","2,545","12,373,604",373,1,1
 "Guaynabo Municipio, Puerto Rico","2,533","52,136","52,613","52,475","442,670,182",650,1,1
@@ -3281,35 +3281,35 @@ Puerto Rico,"46,830","874,543","876,185","867,481","6,028,777,948",531,1,1
 "Humacao Municipio, Puerto Rico",737,"14,684","14,500","14,365","103,858,378",550,1,1
 "Isabela Municipio, Puerto Rico",447,"6,586","6,594","6,568","42,229,810",493,1,1
 "Jayuya Municipio, Puerto Rico",159,"2,741","2,737","2,703","17,852,847",504,1,1
-"Juana D°az Municipio, Puerto Rico",327,"6,362","6,264","6,275","39,982,460",488,1,1
+"Juana D¬°az Municipio, Puerto Rico",327,"6,362","6,264","6,275","39,982,460",488,1,1
 "Juncos Municipio, Puerto Rico",255,"7,051","7,035","6,997","88,928,170",973,1,1
 "Lajas Municipio, Puerto Rico",235,"3,182","3,247","3,337","14,335,318",339,1,1
 "Lares Municipio, Puerto Rico",298,"4,088","4,024","4,019","17,230,177",328,1,1
-"Las Mar°as Municipio, Puerto Rico",91,"1,147","1,139","1,130","4,348,856",294,1,1
+"Las Mar¬°as Municipio, Puerto Rico",91,"1,147","1,139","1,130","4,348,856",294,1,1
 "Las Piedras Municipio, Puerto Rico",283,"7,166","7,158","7,039","51,270,529",554,1,1
-"Lo°za Municipio, Puerto Rico",96,"1,562","1,554","1,570","7,856,614",387,1,1
+"Lo¬°za Municipio, Puerto Rico",96,"1,562","1,554","1,570","7,856,614",387,1,1
 "Luquillo Municipio, Puerto Rico",146,"2,052","2,075","2,038","10,165,958",381,1,1
-"Manat° Municipio, Puerto Rico",614,"13,686","13,664","13,455","99,569,608",563,1,1
+"Manat¬° Municipio, Puerto Rico",614,"13,686","13,664","13,455","99,569,608",563,1,1
 "Maricao Municipio, Puerto Rico",74,"1,295","1,243","1,231","7,279,208",446,1,1
 "Maunabo Municipio, Puerto Rico",65,"1,229","1,259","1,251","8,761,143",541,1,1
-"MayagÅez Municipio, Puerto Rico","1,535","28,751","28,827","28,751","171,614,264",459,1,1
+"Mayag¬Åez Municipio, Puerto Rico","1,535","28,751","28,827","28,751","171,614,264",459,1,1
 "Moca Municipio, Puerto Rico",385,"4,233","4,165","4,057","17,837,130",330,1,1
 "Morovis Municipio, Puerto Rico",174,"2,246","2,250","2,168","11,245,120",389,1,1
 "Naguabo Municipio, Puerto Rico",161,"2,019","2,026","2,093","10,910,885",410,1,1
 "Naranjito Municipio, Puerto Rico",317,"3,326","3,341","3,296","17,194,582",398,1,1
 "Orocovis Municipio, Puerto Rico",215,"2,818","2,941","2,857","13,068,848",350,1,1
 "Patillas Municipio, Puerto Rico",112,"1,468","1,453","1,419","8,492,722",452,1,1
-"Pe§uelas Municipio, Puerto Rico",174,"2,283","2,325","2,339","12,793,786",425,1,1
+"Pe¬§uelas Municipio, Puerto Rico",174,"2,283","2,325","2,339","12,793,786",425,1,1
 "Ponce Municipio, Puerto Rico","2,247","45,556","45,626","45,088","271,958,016",461,1,1
 "Quebradillas Municipio, Puerto Rico",232,"2,145","2,153","2,182","9,925,172",353,1,1
-"Rinc¢n Municipio, Puerto Rico",194,"1,924","1,896","1,871","9,377,262",380,1,1
-"R°o Grande Municipio, Puerto Rico",337,"4,969","5,020","5,051","29,476,695",452,1,1
+"Rinc¬¢n Municipio, Puerto Rico",194,"1,924","1,896","1,871","9,377,262",380,1,1
+"R¬°o Grande Municipio, Puerto Rico",337,"4,969","5,020","5,051","29,476,695",452,1,1
 "Sabana Grande Municipio, Puerto Rico",196,"3,283","3,241","3,133","14,727,260",352,1,1
 "Salinas Municipio, Puerto Rico",205,"3,575","3,620","3,567","20,812,822",446,1,1
-"San Germ†n Municipio, Puerto Rico",381,"7,647","7,699","7,528","41,047,205",414,1,1
+"San Germ¬†n Municipio, Puerto Rico",381,"7,647","7,699","7,528","41,047,205",414,1,1
 "San Juan Municipio, Puerto Rico","11,149","240,929","241,250","240,917","2,001,261,521",639,1,1
 "San Lorenzo Municipio, Puerto Rico",270,"3,413","3,524","3,450","17,584,279",391,1,1
-"San Sebasti†n Municipio, Puerto Rico",581,"5,226","5,268","5,164","22,742,022",335,1,1
+"San Sebasti¬†n Municipio, Puerto Rico",581,"5,226","5,268","5,164","22,742,022",335,1,1
 "Santa Isabel Municipio, Puerto Rico",209,"6,338","6,396","6,280","32,462,451",394,1,1
 "Toa Alta Municipio, Puerto Rico",368,"3,399","3,396","3,408","17,790,566",402,1,1
 "Toa Baja Municipio, Puerto Rico",701,"12,659","12,714","12,636","72,622,413",441,1,1
@@ -4424,6 +4424,3 @@ Virgin Islands,"3,422","37,866","38,088","38,008","469,177,264",950,1,1
 "Wichita-Arkansas City-Winfield, KS CSA","16,078","314,630","315,625","313,941","3,581,701,455",875,1,1
 "Williamsport-Lock Haven, PA CSA","4,075","64,776","64,995","64,936","724,740,049",859,1,1
 "Youngstown-Warren, OH-PA CSA","15,285","237,022","239,756","238,779","2,366,829,954",763,1,1
-U.S. Combined Statistical Areas (combined),"7,340,380","113,284,871","114,079,062","114,507,880","1,679,518,481,862","1,134",0.77,0.8
-U.S. Metropolitan Statistical Areas (combined),"8,251,851","127,888,607","128,747,035","129,135,127","1,872,496,697,487","1,120",0.87,0.89
-U.S. Nonmetropolitan Area Counties (combined),"1,938,043","19,685,480","19,926,834","20,056,031","239,764,093,945",927,0.13,0.11
