@@ -313,6 +313,6 @@ Fort Collins, CO 80526"
 "Wilson, Spectrum, 200",Wilson, NC,27893,Wilson,Charter,Cable,No,200,10,,,,44.99,,,,49.99,9.99,5,0,,,1,,311 Pender St SE
 "Wilson, Spectrum, 400",Wilson, NC,27893,Wilson,Charter,Cable,No,400,20,,,90.99,64.99,,,,49.99,9.99,5,0,,,1,,311 Pender St SE
 "Wilson, Spectrum, 940",Wilson, NC,27893,Wilson,Charter,Cable,No,940,35,,,125.99,104.99,,,,49.99,9.99,0,0,,,1,,311 Pender St SE
-,Houston,TX,77002,Harris,AT&T Internet,Fiber,No,75,5,1000,10,55,45,12,,,99,,,10,,,12,180,308 Main St
-,Houston,TX,77002,Harris,Xfiniti,Fiber,No,25,5,,,77.99,,12,,,,,,,,,12,,308 Main St
-,Houston,TX,77002,Harris,Hughesnet,Satellite,No,25,5,,,69.99,,,,,,,,,,,24,,308 Main St
+AT&T Houston,Houston,TX,77002,Harris,AT&T Internet,Fiber,No,75,5,1000,10,55,45,12,,,99,,,10,,,12,180,308 Main St
+Xfiniti Houston,Houston,TX,77002,Harris,Xfiniti,Fiber,No,25,5,,,77.99,,12,,,,,,,,,12,,308 Main St
+Hughesnet Houston,Houston,TX,77002,Harris,Hughesnet,Satellite,No,25,5,,,69.99,,,,,,,,,,,24,,308 Main St
