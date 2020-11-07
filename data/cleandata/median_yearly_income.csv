@@ -1,3 +1,24 @@
+<<<<<<< HEAD
+zipcode,County,City,State,2020_Year_Wage,2019_Year_Wage,2018_Year_Wage,3_year_wage_avg,latitude,longitude
+90001,Los_Angeles_County,Los Angeles,CA,68068,61932,59892,63297.33,33.97,-118.24
+94101,San_Francisco_County,San Francisco,CA,149604,119880,109332,126272,37.77,-122.41
+93001,Ventura_County,Los Angeles,CA,60788,53400,50976,55054.67,34.33,-119.31
+80528,Larimer_County,Fort Collins,CO,55588,49776,47832,51065.33,40.55,-105.06
+30369,Fulton_County,Atlanta,GA,96252,72660,45276,71396,33.8,-84.47
+93404,Bonneville_County,Ammon,ID,40248,36684,34896,37276,43.42,-112
+66062,Johnson_County,Kansas City,KS,64064,54108,34152,50774.67,38.88,-94.81
+66101,Wyandotte_County,Kansas City,KS,56368,51228,31956,46517.33,39.1,-94.62
+70500,Lafayette_Parish,Lafayette,LA,48204,44712,36084,43000,30.22,-92.01
+27813,Wilson_County,Wilson,NC,49296,42636,35820,42584,35.63,-77.93
+10462,Bronx_County,New York,NY,51844,53892,40356,48697.33,40.84,-73.87
+11204,Kings_County,New York,NY,45864,46680,39912,44152,40.64,-73.94
+10001,New_York_County,New York,NY,179140,117816,79860,125605.33,40.71,-73.99
+11002,Queens_County,New York,NY,52884,53016,49968,51956,40.72,-73.7
+10301,Richmond_County,New York,NY,47996,49860,47100,48318.67,40.58,-74.14
+44017,Cuyahoga_County,Cleveland,OH,63648,54396,40692,52912,41.36,-81.86
+98001,King_County,Seattle,WA,102960,86112,48492,79188,47.3,-122.26
+77002,Harris_County,Houston,TX,83408,67128,47592,66042.67,29.76,-95.38
+=======
 zipcode,County,City,State,2020_Year_Wage,2019_Year_Wage,2018_Year_Wage,3_year_wage_avg,latitude,longitude,,,,,,,
 90001,Los_Angeles_County,Los Angeles,CA,68068,61932,59892,63297.33,33.97,118.24,,,,,,,
 94101,San_Francisco_County,San Francisco,CA,149604,119880,109332,126272.00,37.77,-122.41,,,,,,,
@@ -17,3 +38,4 @@ zipcode,County,City,State,2020_Year_Wage,2019_Year_Wage,2018_Year_Wage,3_year_wa
 44017,Cuyahoga_County,Cleveland,OH,63648,54396,40692,52912.00,41.36,-81.86,,,,,,,
 98001,King_County,Seattle,WA,102960,86112,48492,79188.00,47.3,-122.26,,,,,,,
 77002,Harris_County,Houston,TX,83408,67128,47592,66042.67,29.76,-95.38,,,,,,,
+>>>>>>> fa61c3bd57990cbc2c86221c1f20f77f7e6dfdb7
