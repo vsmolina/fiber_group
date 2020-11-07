@@ -1,318 +1,338 @@
-﻿Plan,City,State,Zip_code,County,ISP,Network_ tech,Municipal_network,Download_speed_Mbps,Upload_speed_Mbps,Data_cap_GB,Data_overage_penalty_per_50GB,Price,Promotional_price,Term _months,Autopay_/_paperless_discount,Activation_fee,Installation_fee,Self_install_ fee,Router_rental_monthly,Modem_rental_monthly,Ttl_rental_costs,router_purchase_cost,Modem_purchase_cost,Ttl_purch_costs,requirement_months,Termination_fee,Address_used
-"Ammon, Century Link, 100",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,100,12,1000,Throttling,65,55,,,,0,,5,15,20,,150,150,1,,3039 S 25 E
-"Ammon, Century Link, 60",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,60,30,1000,Throttling,55,45,,,,99,,5,15,20,,150,150,1,,3039 S 25 E
-"Ammon, Century Link, 80",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,80,40,1000,Throttling,55,45,,,,99,,5,15,20,,150,150,1,,3039 S 25 E
-"Ammon, CenturyLink, 12",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,12,0.896,1000,Throttling,,45,,,,99,50,5,15,20,,150,150,1,,1815 Sabin Dr
-"Ammon, CenturyLink, 20",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,20,0.896,1000,Throttling,,50,,,,99,50,5,15,20,,150,150,1,,1815 Sabin Dr
-"Ammon, CenturyLink, 40",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,40,5,1000,Throttling,,45,,,,99,50,5,15,20,,150,150,1,,1815 Sabin Dr
-"Ammon, DirectCom, 100",Ammon, ID,,Bonneville,DirectCom,Fiber,Yes,100,100,,,39.95,,,,,,,,,0,,,0,,,Not applicable
-"Ammon, DirectCom, 1000",Ammon, ID,,Bonneville,DirectCom,Fiber,Yes,1000,1000,,,109.95,,,,,,,,,0,,,0,,,Not applicable
-"Ammon, DirectCom, 250",Ammon, ID,,Bonneville,DirectCom,Fiber,Yes,250,250,,,49.95,,,,,,,,,0,,,0,,,Not applicable
-"Ammon, DirectCom, 50",Ammon, ID,,Bonneville,DirectCom,Fiber,Yes,50,50,,,29.95,,,,,,,,,0,,,0,,,Not applicable
-"Ammon, Fybercom, 1000, F",Ammon, ID,,Bonneville,Fybercom,Fiber,Yes,1000,1000,,,9.99,,,,,,,,,0,,,0,,,Not applicable
-"Ammon, Fybercom, 15, F",Ammon, ID,,Bonneville,Fybercom,Fiber,Yes,15,15,,,0,,,,,,,,,0,,,0,,,Not applicable
-"Ammon, Fybercom, 500, F",Ammon, ID,,Bonneville,Fybercom,Fiber,Yes,500,500,,,9.98,,,,,,,,,0,,,0,,,Not applicable
-"Ammon, QWK, 100",Ammon, ID,,Bonneville,QWK,Fiber,Yes,100,100,,,8.88,,,,,95,,,,0,,,0,,,Not applicable
-"Ammon, QWK, 1000",Ammon, ID,,Bonneville,QWK,Fiber,Yes,1000,1000,,,14.88,,,,,95,,,,0,,,0,,,Not applicable
-"Ammon, QWK, 15",Ammon, ID,,Bonneville,QWK,Fiber,Yes,15,15,,,1.88,,,,,95,,,,0,,,0,,,Not applicable
-"Ammon, QWK, 250",Ammon, ID,,Bonneville,QWK,Fiber,Yes,250,250,,,9.88,,,,,95,,,,0,,,0,,,Not applicable
-"Ammon, Sparklight, 100",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,100,10,300,20,55,45,12,,,,0,10.5,,10.5,,,0,,,1815 Sabin Dr
-"Ammon, Sparklight, 1000",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,1000,50,1200,20,125,,,,,,,10.5,,10.5,,,0,,,Not applicable
-"Ammon, Sparklight, 15",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,15,1,100,20,30,,,,,,0,10.5,,10.5,,,0,,,1815 Sabin Dr
-"Ammon, Sparklight, 200",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,200,20,600,20,65,,,,,,0,10.5,,10.5,,,0,,,1815 Sabin Dr
-"Ammon, Sparklight, 300",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,300,30,900,20,80,,,,,,0,10.5,,10.5,,,0,,,1815 Sabin Dr
-"Ammon, Sumo, 1000",Ammon, ID,,Bonneville,Sumo,Fiber,Yes,1000,1000,,,25,,,,,,,,,0,,,0,,,Not applicable
-"Atlanta, AT&T, 0.768",Atlanta, GA,30314,Fulton,AT&T Internet,ADSL,No,0.768,0.4,1000,10,60,40,12/ongoing,,35,99,0,,,0,,,0,12,180,145 James P Brawley Dr NW
-"Atlanta, AT&T, 100",Atlanta, GA,30312,Fulton,AT&T Internet,Fiber,No,100,100,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,512 Grant St SE
-"Atlanta, AT&T, 1000",Atlanta, GA,30312,Fulton,AT&T Internet,Fiber,No,1000,1000,,,100,70,12,,0,0,,,,0,,,0,12,180,512 Grant St SE
-"Atlanta, AT&T, 300",Atlanta, GA,30312,Fulton,AT&T Internet,Fiber,No,300,300,1000,10,90,50,12/ongoing,,35,99,0,,,0,,,0,12,180,512 Grant St SE
-"Atlanta, AT&T, 5",Atlanta, GA,30312,Fulton,AT&T Internet,ADSL,No,5,1,1000,10,60,40,12/ongoing,,35,99,0,,,0,,,0,12,180,506 Grant St SE
-"Atlanta, AT&T, 50",Atlanta, GA,30314,Fulton,AT&T Internet,ADSL,No,50,10,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,1011 Palmetto Ave SW
-"Atlanta, Google, 100",Atlanta, GA,30308,Fulton,Google Fiber,Fiber,No,100,100,,,50,,,,,,,0,0,0,,0,0,1,,Not applicable
-"Atlanta, Google, 1000",Atlanta, GA,30308,Fulton,Google Fiber,Fiber,No,1000,1000,,,70,,,,,,,0,0,0,,0,0,1,,Not applicable
-"Atlanta, Xfinity, 1000A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,1000,35,1000,10,110,90,12,10,,70,,,13,13,,,0,12,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 1000B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,1000,35,1000,10,110,100,12,10,,70,,,13,13,,,0,1,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 150A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,150,5,1000,10,80,60,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 150B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,150,5,1000,10,80,70,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 250A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,250,5,1000,10,90,70,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 250B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,250,5,1000,10,90,80,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 25A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,25,2,1000,10,50,30,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 25B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,25,2,1000,10,50,40,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 400A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,400,10,1000,10,100,80,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 400B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,400,10,1000,10,100,90,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 60A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,60,2,1000,10,70,40,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
-"Atlanta, Xfinity, 60B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,60,2,1000,10,70,50,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
-"Atlanta, Yomura, 1000",Atlanta, GA,,Fulton,Yomura,Fiber,No,1000,1000,,,99,,,,,0,,10,,10,,99,99,1,,Not applicable
-"Atlanta, Yomura, 10000",Atlanta, GA,,Fulton,Yomura,Fiber,No,10000,10000,,,999,,,,,0,,10,,10,,99,99,1,,Not applicable
-"Chattanooga, AT&T Internet, 10",Chattanooga, TN,34703,Hamilton,AT&T Internet,ADSL,No,10,1,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,829 McCallie Ave
-"Chattanooga, AT&T Internet, 100",Chattanooga, TN,34708,Hamilton,AT&T Internet,Fiber,No,100,100,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,1614 Jefferson St
-"Chattanooga, AT&T Internet, 1000",Chattanooga, TN,34708,Hamilton,AT&T Internet,Fiber,No,1000,1000,,,100,70,12,,,,,,,0,,,0,12,180,1614 Jefferson St
-"Chattanooga, AT&T Internet, 18",Chattanooga, TN,34708,Hamilton,AT&T Internet,ADSL,No,18,1.5,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,1717 Williams St
-"Chattanooga, AT&T Internet, 300",Chattanooga, TN,34708,Hamilton,AT&T Internet,Fiber,No,300,300,1000,10,90,50,12/ongoing,,35,0,0,,,0,,,0,12,180,1614 Jefferson St
-"Chattanooga, AT&T Internet, 5",Chattanooga, TN,34703,Hamilton,AT&T Internet,ADSL,No,5,1,1000,10,60,40,12/ongoing,,35,99,0,,,0,,,0,12,180,829 McCallie Ave
-"Chattanooga, EPB, 1000",Chattanooga, TN,,Hamilton,EPB,Fiber,Yes,1000,1000,,,67.99,,,,,0,,9.99,,9.99,,,0,1,,Not applicable
-"Chattanooga, EPB, 10000",Chattanooga, TN,,Hamilton,EPB,Fiber,Yes,10000,10000,,,299.99,,,,,0,,9.99,,9.99,,,0,1,,Not applicable
-"Chattanooga, EPB, 300",Chattanooga, TN,,Hamilton,EPB,Fiber,Yes,300,300,,,57.99,,,,,0,,9.99,,9.99,,,0,1,,Not applicable
-"Chattanooga, Xfinity, 1000",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,1000,35,1000,10,110,90,12,10,,70,,,13,13,,,0,12,,1614 Jefferson St
-"Chattanooga, Xfinity, 150",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,150,5,1000,10,80,60,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
-"Chattanooga, Xfinity, 25",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,25,2,1000,10,50,30,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
-"Chattanooga, Xfinity, 250",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,250,5,1000,10,90,70,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
-"Chattanooga, Xfinity, 60",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,60,2,1000,10,70,40,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
-"Chattanooga, Xfinity, 400",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,400,10,1000,10,100,80,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
-"Cleveland, AT&T, 100",Cleveland, OH,44111,Cuyahoga,AT&T Internet,Fiber,No,100,100,1000,10,60,50,12,,,99,0,,,0,,,0,12,180,3045 W 104th St
-"Cleveland, AT&T, 1000",Cleveland, OH,44111,Cuyahoga,AT&T Internet,Fiber,No,1000,1000,,,100,70,12,,,0,0,,,0,,,0,12,180,3045 W 104th St
-"Cleveland, AT&T, 18",Cleveland, OH,44102,Cuyahoga,AT&T Internet,ADSL,No,18,1.5,1000,10,60,50,12,,35,99,0,,,0,,,0,12,180,7001 W Clinton Ave
-"Cleveland, AT&T, 300",Cleveland, OH,44111,Cuyahoga,AT&T Internet,Fiber,No,300,300,1000,10,80,50,12,,,0,0,,,0,,,0,12,180,3045 W 104th St
-"Cleveland, AT&T, 5",Cleveland, OH,44113,Cuyahoga,AT&T Internet,ADSL,No,5,1,1000,10,50,40,12,,35,99,0,,,0,,,0,12,180,2308 W 11th St
-"Cleveland, AT&T, 50",Cleveland, OH,44113,Cuyahoga,AT&T Internet,ADSL,No,50,10,1000,10,60,50,12,,35,99,0,,,0,,,0,12,180,2308 W 11th St
-"Cleveland, Cleveland Broadband, 100",Cleveland, OH,,Cuyahoga,Cleveland Broadband,Fiber,No,100,100,,,50,,,,0,0,,0,,0,,,0,1,,Not applicable
-"Cleveland, Cleveland Broadband, 1000",Cleveland, OH,,Cuyahoga,Cleveland Broadband,Fiber,No,1000,1000,,,70,,,,0,0,,0,,0,,,0,1,,Not applicable
-"Cleveland, Snip Internet 1 Gig",Cleveland, OH,44114,Cuyahoga,Snip Internet,Fiber,No,1000,,,,75,,,,0,0,No,0,0,0,0,0,0,,,1587 E 31st St.
-"Cleveland, Snip Internet 100",Cleveland, OH,44114,Cuyahoga,Snip Internet,Fiber,No,100,,,,50,,,,0,0,No,0,0,0,0,0,0,,,1587 E 31st St.
-"Cleveland, Spectrum 940",Cleveland, OH,44113,Cuyahoga,Charter,Cable,No,940,,,,125.99,104.99,12,,,199,,,,0,,,0,1,remaining month,2308 W 11th St
-"Cleveland, Spectrum, 100",Cleveland, OH,44113,Cuyahoga,Charter,Cable,No,100,,,,65.99,44.99,12,,,99,9.99,5,,5,,,0,1,remaining month,2308 W 11th St
-"Cleveland, Spectrum, 30",Cleveland, OH,44111,Cuyahoga,Charter,Cable,No,30,,,,14.99,,,,,49.99,,5,,5,,,0,12,remaining month,3045 W 104th St
-"Cleveland, Spectrum, 400",Cleveland, OH,44113,Cuyahoga,Charter,Cable,No,400,,,,90.99,64.99,12,,,99,9.99,5,,5,,,0,1,remaining month,2308 W 11th St
-"Cleveland, WindSpeed, 25",Cleveland, OH,,Cuyahoga,WindSpeed,Cable,No,25,5,,,39.95,,,,,,,,,0,,,0,,,Not applicable
-"Cleveland, WindSpeed, 50",Cleveland, OH,,Cuyahoga,WindSpeed,Cable,No,50,10,,,49.95,,,,,,,,,0,,,0,,,Not applicable
-"Cleveland, WindSpeed, 75",Cleveland, OH,,Cuyahoga,WindSpeed,Cable,No,75,15,,,54.95,,,,,,,,,0,,,0,,,Not applicable
-"Cleveland, Wow, 100",Cleveland, OH,,Cuyahoga,WideOpenWest,Cable,No,100,,,,59.99,39.99,24,15,,0,,14.99,10,24.99,,,0,24,345,Not applicable
-"Cleveland, Wow, 1000",Cleveland, OH,,Cuyahoga,WideOpenWest,Cable,No,1000,,,,99.99,79.99,24,15,,0,,4.99,10,14.99,,,0,24,345,Not applicable
-"Cleveland, Wow, 200",Cleveland, OH,,Cuyahoga,WideOpenWest,Cable,No,200,,,,69.99,49.99,24,15,,0,,14.99,10,24.99,,,0,24,345,Not applicable
-"Cleveland, Wow, 500",Cleveland, OH,,Cuyahoga,WideOpenWest,Cable,No,500,,,,79.99,59.99,24,15,,0,,9.99,10,19.99,,,0,24,345,Not applicable
-"Fort Collins, CenturyLink, 30",Fort Collins, CO,80525,Larimer,CenturyLink,ADSL,No,30,1.5,,,,49,,,,up to $125,0,,up to $15,#VALUE!,,up to $150,#VALUE!,1,,"2242 Shawnee Ct
+﻿Plan,City,State,Zip_code,County,ISP,Network_ tech,Municipal_network,Download_speed_Mbps,Upload_speed_Mbps,Cost_per_download Mbps,Data_cap_GB,Data_overage_penalty_per_50GB,Price,Term _months,Autopay_/_paperless_discount,Activation_fee,Installation_fee,Self_install_ fee,Router_rental_monthly,Modem_rental_monthly,Ttl_rental_costs,router_purchase_cost,Modem_purchase_cost,Ttl_purch_costs,requirement_months,Termination_fee,Address_used
+"Ammon, Century Link, 100",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,100,12,0.65,1000,Throttling,65,,,,0,,5,15,20,,150,150,1,,3039 S 25 E
+"Ammon, Century Link, 60",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,60,30,0.92,1000,Throttling,55,,,,99,,5,15,20,,150,150,1,,3039 S 25 E
+"Ammon, Century Link, 80",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,80,40,0.69,1000,Throttling,55,,,,99,,5,15,20,,150,150,1,,3039 S 25 E
+"Ammon, CenturyLink, 12",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,12,0.896,3.75,1000,Throttling,45,,,,99,50,5,15,20,,150,150,1,,1815 Sabin Dr
+"Ammon, CenturyLink, 20",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,20,0.896,2.50,1000,Throttling,50,,,,99,50,5,15,20,,150,150,1,,1815 Sabin Dr
+"Ammon, CenturyLink, 40",Ammon, ID,83406,Bonneville,CenturyLink,ADSL,No,40,5,1.13,1000,Throttling,45,,,,99,50,5,15,20,,150,150,1,,1815 Sabin Dr
+"Ammon, DirectCom, 100",Ammon, ID,,Bonneville,DirectCom,Fiber,Yes,100,100,0.40,,,39.95,,,,,,,,0,,,0,,,Not applicable
+"Ammon, DirectCom, 1000",Ammon, ID,,Bonneville,DirectCom,Fiber,Yes,1000,1000,0.11,,,109.95,,,,,,,,0,,,0,,,Not applicable
+"Ammon, DirectCom, 250",Ammon, ID,,Bonneville,DirectCom,Fiber,Yes,250,250,0.20,,,49.95,,,,,,,,0,,,0,,,Not applicable
+"Ammon, DirectCom, 50",Ammon, ID,,Bonneville,DirectCom,Fiber,Yes,50,50,0.60,,,29.95,,,,,,,,0,,,0,,,Not applicable
+"Ammon, Fybercom, 1000, F",Ammon, ID,,Bonneville,Fybercom,Fiber,Yes,1000,1000,0.01,,,9.99,,,,,,,,0,,,0,,,Not applicable
+"Ammon, Fybercom, 500, F",Ammon, ID,,Bonneville,Fybercom,Fiber,Yes,500,500,0.02,,,9.98,,,,,,,,0,,,0,,,Not applicable
+"Ammon, QWK, 100",Ammon, ID,,Bonneville,QWK,Fiber,Yes,100,100,0.09,,,8.88,,,,95,,,,0,,,0,,,Not applicable
+"Ammon, QWK, 1000",Ammon, ID,,Bonneville,QWK,Fiber,Yes,1000,1000,0.01,,,14.88,,,,95,,,,0,,,0,,,Not applicable
+"Ammon, QWK, 15",Ammon, ID,,Bonneville,QWK,Fiber,Yes,15,15,0.13,,,1.88,,,,95,,,,0,,,0,,,Not applicable
+"Ammon, QWK, 250",Ammon, ID,,Bonneville,QWK,Fiber,Yes,250,250,0.04,,,9.88,,,,95,,,,0,,,0,,,Not applicable
+"Ammon, Sparklight, 100",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,100,10,0.55,300,20,55,12,,,,0,10.5,,10.5,,,0,,,1815 Sabin Dr
+"Ammon, Sparklight, 1000",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,1000,50,0.13,1200,20,125,,,,,,10.5,,10.5,,,0,,,Not applicable
+"Ammon, Sparklight, 15",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,15,1,2.00,100,20,30,,,,,0,10.5,,10.5,,,0,,,1815 Sabin Dr
+"Ammon, Sparklight, 200",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,200,20,0.33,600,20,65,,,,,0,10.5,,10.5,,,0,,,1815 Sabin Dr
+"Ammon, Sparklight, 300",Ammon, ID,83406,Bonneville,Sparklight,Cable,No,300,30,0.27,900,20,80,,,,,0,10.5,,10.5,,,0,,,1815 Sabin Dr
+"Ammon, Sumo, 1000",Ammon, ID,,Bonneville,Sumo,Fiber,Yes,1000,1000,0.03,,,25,,,,,,,,0,,,0,,,Not applicable
+"Atlanta, AT&T, 0.768",Atlanta, GA,30314,Fulton,AT&T Internet,ADSL,No,0.768,0.4,78.13,1000,10,60,12/ongoing,,35,99,0,,,0,,,0,12,180,145 James P Brawley Dr NW
+"Atlanta, AT&T, 100",Atlanta, GA,30312,Fulton,AT&T Internet,Fiber,No,100,100,0.70,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,512 Grant St SE
+"Atlanta, AT&T, 1000",Atlanta, GA,30312,Fulton,AT&T Internet,Fiber,No,1000,1000,0.10,,,100,12,,0,0,,,,0,,,0,12,180,512 Grant St SE
+"Atlanta, AT&T, 300",Atlanta, GA,30312,Fulton,AT&T Internet,Fiber,No,300,300,0.30,1000,10,90,12/ongoing,,35,99,0,,,0,,,0,12,180,512 Grant St SE
+"Atlanta, AT&T, 5",Atlanta, GA,30312,Fulton,AT&T Internet,ADSL,No,5,1,12.00,1000,10,60,12/ongoing,,35,99,0,,,0,,,0,12,180,506 Grant St SE
+"Atlanta, AT&T, 50",Atlanta, GA,30314,Fulton,AT&T Internet,ADSL,No,50,10,1.40,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,1011 Palmetto Ave SW
+"Atlanta, Google, 100",Atlanta, GA,30308,Fulton,Google Fiber,Fiber,No,100,100,0.50,,,50,,,,,,0,0,0,,0,0,1,,Not applicable
+"Atlanta, Google, 1000",Atlanta, GA,30308,Fulton,Google Fiber,Fiber,No,1000,1000,0.07,,,70,,,,,,0,0,0,,0,0,1,,Not applicable
+"Atlanta, Xfinity, 1000A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,1000,35,0.11,1000,10,110,12,10,,70,,,13,13,,,0,12,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 1000B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,1000,35,0.11,1000,10,110,12,10,,70,,,13,13,,,0,1,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 150A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,150,5,0.53,1000,10,80,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 150B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,150,5,0.53,1000,10,80,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 250A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,250,5,0.36,1000,10,90,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 250B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,250,5,0.36,1000,10,90,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 25A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,25,2,2.00,1000,10,50,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 25B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,25,2,2.00,1000,10,50,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 400A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,400,10,0.25,1000,10,100,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 400B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,400,10,0.25,1000,10,100,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 60A",Atlanta, GA,30314,Fulton,Comcast,Cable,No,60,2,1.17,1000,10,70,12,10,,70,15,,13,13,,,0,12,,145 James P Brawley Dr NW
+"Atlanta, Xfinity, 60B",Atlanta, GA,30314,Fulton,Comcast,Cable,No,60,2,1.17,1000,10,70,12,10,,70,15,,13,13,,,0,1,,145 James P Brawley Dr NW
+"Atlanta, Yomura, 1000",Atlanta, GA,,Fulton,Yomura,Fiber,No,1000,1000,0.10,,,99,,,,0,,10,,10,,99,99,1,,Not applicable
+"Atlanta, Yomura, 10000",Atlanta, GA,,Fulton,Yomura,Fiber,No,10000,10000,0.10,,,999,,,,0,,10,,10,,99,99,1,,Not applicable
+"Chattanooga, AT&T Internet, 10",Chattanooga, TN,34703,Hamilton,AT&T Internet,ADSL,No,10,1,7.00,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,829 McCallie Ave
+"Chattanooga, AT&T Internet, 100",Chattanooga, TN,34708,Hamilton,AT&T Internet,Fiber,No,100,100,0.70,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,1614 Jefferson St
+"Chattanooga, AT&T Internet, 1000",Chattanooga, TN,34708,Hamilton,AT&T Internet,Fiber,No,1000,1000,0.10,,,100,12,,,,,,,0,,,0,12,180,1614 Jefferson St
+"Chattanooga, AT&T Internet, 18",Chattanooga, TN,34708,Hamilton,AT&T Internet,ADSL,No,18,1.5,3.89,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,1717 Williams St
+"Chattanooga, AT&T Internet, 300",Chattanooga, TN,34708,Hamilton,AT&T Internet,Fiber,No,300,300,0.30,1000,10,90,12/ongoing,,35,0,0,,,0,,,0,12,180,1614 Jefferson St
+"Chattanooga, AT&T Internet, 5",Chattanooga, TN,34703,Hamilton,AT&T Internet,ADSL,No,5,1,12.00,1000,10,60,12/ongoing,,35,99,0,,,0,,,0,12,180,829 McCallie Ave
+"Chattanooga, EPB, 1000",Chattanooga, TN,,Hamilton,EPB,Fiber,Yes,1000,1000,0.07,,,67.99,,,,0,,9.99,,9.99,,,0,1,,Not applicable
+"Chattanooga, EPB, 10000",Chattanooga, TN,,Hamilton,EPB,Fiber,Yes,10000,10000,0.03,,,299.99,,,,0,,9.99,,9.99,,,0,1,,Not applicable
+"Chattanooga, EPB, 300",Chattanooga, TN,,Hamilton,EPB,Fiber,Yes,300,300,0.19,,,57.99,,,,0,,9.99,,9.99,,,0,1,,Not applicable
+"Chattanooga, Xfinity, 1000",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,1000,35,0.11,1000,10,110,12,10,,70,,,13,13,,,0,12,,1614 Jefferson St
+"Chattanooga, Xfinity, 150",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,150,5,0.53,1000,10,80,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
+"Chattanooga, Xfinity, 25",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,25,2,2.00,1000,10,50,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
+"Chattanooga, Xfinity, 250",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,250,5,0.36,1000,10,90,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
+"Chattanooga, Xfinity, 60",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,60,2,1.17,1000,10,70,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
+"Chattanooga, Xfinity, 400",Chattanooga, TN,34708,Hamilton,Comcast,Cable,No,400,10,0.25,1000,10,100,12,10,,70,15,,13,13,,,0,12,,1614 Jefferson St
+"Cleveland, AT&T, 100",Cleveland, OH,44111,Cuyahoga,AT&T Internet,Fiber,No,100,100,0.60,1000,10,60,12,,,99,0,,,0,,,0,12,180,3045 W 104th St
+"Cleveland, AT&T, 1000",Cleveland, OH,44111,Cuyahoga,AT&T Internet,Fiber,No,1000,1000,0.10,,,100,12,,,0,0,,,0,,,0,12,180,3045 W 104th St
+"Cleveland, AT&T, 18",Cleveland, OH,44102,Cuyahoga,AT&T Internet,ADSL,No,18,1.5,3.33,1000,10,60,12,,35,99,0,,,0,,,0,12,180,7001 W Clinton Ave
+"Cleveland, AT&T, 300",Cleveland, OH,44111,Cuyahoga,AT&T Internet,Fiber,No,300,300,0.27,1000,10,80,12,,,0,0,,,0,,,0,12,180,3045 W 104th St
+"Cleveland, AT&T, 5",Cleveland, OH,44113,Cuyahoga,AT&T Internet,ADSL,No,5,1,10.00,1000,10,50,12,,35,99,0,,,0,,,0,12,180,2308 W 11th St
+"Cleveland, AT&T, 50",Cleveland, OH,44113,Cuyahoga,AT&T Internet,ADSL,No,50,10,1.20,1000,10,60,12,,35,99,0,,,0,,,0,12,180,2308 W 11th St
+"Cleveland, Cleveland Broadband, 100",Cleveland, OH,,Cuyahoga,Cleveland Broadband,Fiber,No,100,100,0.50,,,50,,,0,0,,0,,0,,,0,1,,Not applicable
+"Cleveland, Cleveland Broadband, 1000",Cleveland, OH,,Cuyahoga,Cleveland Broadband,Fiber,No,1000,1000,0.07,,,70,,,0,0,,0,,0,,,0,1,,Not applicable
+"Cleveland, Snip Internet 1 Gig",Cleveland, OH,44114,Cuyahoga,Snip Internet,Fiber,No,1000,,0.08,,,75,,,0,0,No,0,0,0,0,0,0,,,1587 E 31st St.
+"Cleveland, Snip Internet 100",Cleveland, OH,44114,Cuyahoga,Snip Internet,Fiber,No,100,,0.50,,,50,,,0,0,No,0,0,0,0,0,0,,,1587 E 31st St.
+"Cleveland, Spectrum 940",Cleveland, OH,44113,Cuyahoga,Charter,Cable,No,940,,0.13,,,125.99,12,,,199,,,,0,,,0,1,remaining month,2308 W 11th St
+"Cleveland, Spectrum, 100",Cleveland, OH,44113,Cuyahoga,Charter,Cable,No,100,,0.66,,,65.99,12,,,99,9.99,5,,5,,,0,1,remaining month,2308 W 11th St
+"Cleveland, Spectrum, 30",Cleveland, OH,44111,Cuyahoga,Charter,Cable,No,30,,0.50,,,14.99,,,,49.99,,5,,5,,,0,12,remaining month,3045 W 104th St
+"Cleveland, Spectrum, 400",Cleveland, OH,44113,Cuyahoga,Charter,Cable,No,400,,0.23,,,90.99,12,,,99,9.99,5,,5,,,0,1,remaining month,2308 W 11th St
+"Cleveland, WindSpeed, 25",Cleveland, OH,,Cuyahoga,WindSpeed,Cable,No,25,5,1.60,,,39.95,,,,,,,,0,,,0,,,Not applicable
+"Cleveland, WindSpeed, 50",Cleveland, OH,,Cuyahoga,WindSpeed,Cable,No,50,10,1.00,,,49.95,,,,,,,,0,,,0,,,Not applicable
+"Cleveland, WindSpeed, 75",Cleveland, OH,,Cuyahoga,WindSpeed,Cable,No,75,15,0.73,,,54.95,,,,,,,,0,,,0,,,Not applicable
+"Cleveland, Wow, 100",Cleveland, OH,,Cuyahoga,WideOpenWest,Cable,No,100,,0.60,,,59.99,24,15,,0,,14.99,10,24.99,,,0,24,345,Not applicable
+"Cleveland, Wow, 1000",Cleveland, OH,,Cuyahoga,WideOpenWest,Cable,No,1000,,0.10,,,99.99,24,15,,0,,4.99,10,14.99,,,0,24,345,Not applicable
+"Cleveland, Wow, 200",Cleveland, OH,,Cuyahoga,WideOpenWest,Cable,No,200,,0.35,,,69.99,24,15,,0,,14.99,10,24.99,,,0,24,345,Not applicable
+"Cleveland, Wow, 500",Cleveland, OH,,Cuyahoga,WideOpenWest,Cable,No,500,,0.16,,,79.99,24,15,,0,,9.99,10,19.99,,,0,24,345,Not applicable
+"Fort Collins, CenturyLink, 30",Fort Collins, CO,80525,Larimer,CenturyLink,ADSL,No,30,1.5,1.63,,,49,,,,up to $125,0,,up to $15,#VALUE!,,up to $150,#VALUE!,1,,"2242 Shawnee Ct
 Fort Collins, CO 80525"
-"Fort Collins, CenturyLink, 40",Fort Collins, CO,80525,Larimer,CenturyLink,ADSL,No,40,2,,,,49,,,,up to $125,0,,up to $15,#VALUE!,,up to $150,#VALUE!,1,,"2242 Shawnee Ct
+"Fort Collins, CenturyLink, 40",Fort Collins, CO,80525,Larimer,CenturyLink,ADSL,No,40,2,1.23,,,49,,,,up to $125,0,,up to $15,#VALUE!,,up to $150,#VALUE!,1,,"2242 Shawnee Ct
 Fort Collins, CO 80525"
-"Fort Collins, CenturyLink, 80",Fort Collins, CO,80525,Larimer,CenturyLink,ADSL,No,80,10,,,,49,,,,up to $125,0,,up to $15,#VALUE!,,up to $150,#VALUE!,1,,"2242 Shawnee Ct
+"Fort Collins, CenturyLink, 80",Fort Collins, CO,80525,Larimer,CenturyLink,ADSL,No,80,10,0.61,,,49,,,,up to $125,0,,up to $15,#VALUE!,,up to $150,#VALUE!,1,,"2242 Shawnee Ct
 Fort Collins, CO 80525"
-"Fort Collins, Connexion, 1000",Fort Collins, CO,,Larimer,Connexion,Fiber,Yes,1000,1000,,,59.95,,,,,0,,,,0,,,0,1,,Not applicable
-"Fort Collins, Connexion, 10000",Fort Collins, CO,,Larimer,Connexion,Fiber,Yes,10000,10000,,,299.95,,,,,0,,,,0,,,0,1,,Not applicable
-"Fort Collins, kci, 100A",Fort Collins, CO,,Larimer,kci.net,Fiber,No,100,100,,,98,,,,,150,,,,0,,,0,12,75,Not applicable
-"Fort Collins, kci, 100B",Fort Collins, CO,,Larimer,kci.net,Fiber,No,100,100,,,98,,,,,75,,,,0,,,0,1,,Not applicable
-"Fort Collins, kci, 1000A",Fort Collins, CO,,Larimer,kci.net,Fiber,No,1000,1000,,,198,,,,,150,,,,0,,,0,12,75,Not applicable
-"Fort Collins, kci, 1000B",Fort Collins, CO,,Larimer,kci.net,Fiber,No,1000,1000,,,198,,,,,75,,,,0,,,0,1,,Not applicable
-"Fort Collins, kci, 50A",Fort Collins, CO,,Larimer,kci.net,Fiber,No,50,50,,,48,,,,,150,,,,0,,,0,12,75,Not applicable
-"Fort Collins, kci, 50B",Fort Collins, CO,,Larimer,kci.net,Fiber,No,50,50,,,48,,,,,75,,,,0,,,0,1,,Not applicable
-"Fort Collins, xfinity, 1000A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,1000,,,,,70,24,,,0,0,,13,13,,,0,12,,"2700 Chaparral Dr
+"Fort Collins, Connexion, 1000",Fort Collins, CO,,Larimer,Connexion,Fiber,Yes,1000,1000,0.06,,,59.95,,,,0,,,,0,,,0,1,,Not applicable
+"Fort Collins, Connexion, 10000",Fort Collins, CO,,Larimer,Connexion,Fiber,Yes,10000,10000,0.03,,,299.95,,,,0,,,,0,,,0,1,,Not applicable
+"Fort Collins, kci, 100A",Fort Collins, CO,,Larimer,kci.net,Fiber,No,100,100,0.98,,,98,,,,150,,,,0,,,0,12,75,Not applicable
+"Fort Collins, kci, 100B",Fort Collins, CO,,Larimer,kci.net,Fiber,No,100,100,0.98,,,98,,,,75,,,,0,,,0,1,,Not applicable
+"Fort Collins, kci, 1000A",Fort Collins, CO,,Larimer,kci.net,Fiber,No,1000,1000,0.20,,,198,,,,150,,,,0,,,0,12,75,Not applicable
+"Fort Collins, kci, 1000B",Fort Collins, CO,,Larimer,kci.net,Fiber,No,1000,1000,0.20,,,198,,,,75,,,,0,,,0,1,,Not applicable
+"Fort Collins, kci, 50A",Fort Collins, CO,,Larimer,kci.net,Fiber,No,50,50,0.96,,,48,,,,150,,,,0,,,0,12,75,Not applicable
+"Fort Collins, kci, 50B",Fort Collins, CO,,Larimer,kci.net,Fiber,No,50,50,0.96,,,48,,,,75,,,,0,,,0,1,,Not applicable
+"Fort Collins, xfinity, 1000A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,1000,,0.07,,,70,24,,,0,0,,13,13,,,0,12,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 1000B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,1000,,,,159.95,89.99,24,,,,15,,13,13,,,0,24,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 1000B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,1000,,0.16,,,159.95,24,,,,15,,13,13,,,0,24,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 1000C",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,1000,,,,159.95,89.99,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 1000C",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,1000,,0.16,,,159.95,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 15A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,15,,,,49.95,29.99,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 15A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,15,,3.33,,,49.95,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 15B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,15,,,,49.95,39.99,12,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 15B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,15,,3.33,,,49.95,12,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 175A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,175,,,,81.95,44.99,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 175A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,175,,0.47,,,81.95,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 175B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,175,,,,81.95,64.99,12,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 175B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,175,,0.47,,,81.95,12,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 2000",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,2000,,,,299.95,,,,,,,,13,13,,,0,24,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 2000",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,2000,,0.15,,,299.95,,,,,,,13,13,,,0,24,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 275A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,275,,,,96.95,59.99,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 275A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,275,,0.35,,,96.95,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 275B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,275,,,,96.95,79.99,12,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 275B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,275,,0.35,,,96.95,12,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 500A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,500,,,,119.95,60,24,,,,0,,13,13,,,0,12,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 500A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,500,,0.24,,,119.95,24,,,,0,,13,13,,,0,12,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 500B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,500,,,,111.95,74.99,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 500B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,500,,0.22,,,111.95,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 500C",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,500,,,,118.95,111.95,1,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 500C",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,500,,0.24,,,118.95,1,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 75A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,75,,,,66.95,29.99,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 75A",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,75,,0.89,,,66.95,12,,,,15,,13,13,,,0,12,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Fort Collins, xfinity, 75B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,75,,,,64.95,49.99,12,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
+"Fort Collins, xfinity, 75B",Fort Collins, CO,80526,Larimer,Comcast,Cable,No,75,,0.87,,,64.95,12,,,,15,,13,13,,,0,1,,"2700 Chaparral Dr
 Fort Collins, CO 80526"
-"Kansas City KS, AT&T, .786",Kansas City, KS,66104,Wyandotte,AT&T Internet,ADSL,No,0.768,0.384,1000,10,50,40,12,,35,99,0,,,0,,,0,,180,2428 Stewart Ave
-"Kansas City KS, AT&T, 1.5",Kansas City, KS,66102,Wyandotte,AT&T Internet,ADSL,No,1.5,1,1000,10,50,40,12,,35,99,0,,,0,,,0,12,180,108 S 16th St
-"Kansas City KS, AT&T, 100",Kansas City, KS,66112,Wyandotte,AT&T Internet,ADSL,No,100,20,1000,10,60,50,12,,35,99,0,,,0,,,0,12,180,7445 Riverview Ave
-"Kansas City KS, AT&T, 25",Kansas City, KS,66102,Wyandotte,AT&T Internet,ADSL,No,25,5,1000,10,60,50,12,,35,99,0,,,0,,,0,12,180,70 S 24th St
-"Kansas City KS, AT&T, 5",Kansas City, KS,66112,Wyandotte,AT&T Internet,ADSL,No,5,1,1000,10,50,40,12,,35,99,0,,,0,,,0,12,180,7445 Riverview Ave
-"Kansas City KS, AT&T, 50",Kansas City, KS,66102,Wyandotte,AT&T Internet,ADSL,No,50,10,1000,10,60,50,12,,35,99,0,,,0,,,0,12,180,1242 Grandview Blvd
-"Kansas City KS, Google, 100",Kansas City, KS,,Wyandotte,Google Fiber,Fiber,No,100,100,,,50,,,,,,,,,0,,,0,1,,Not applicable
-"Kansas City KS, Google, 1000",Kansas City, KS,,Wyandotte,Google Fiber,Fiber,No,1000,1000,,,70,,,,,,,,,0,,,0,1,,Not applicable
-"Kansas City KS, Midco, 100",Kansas City, KS,66109,Wyandotte,Midcontinent Communications,Cable,No,100,10,,,59.95,39.95,12,,,50,,2,8,10,,,0,1,1,2108 N 114th Ter
-"Kansas City KS, Midco, 1000",Kansas City, KS,66109,Wyandotte,Midcontinent Communications,Cable,No,1000,20,,,99.95,79.95,12,,,50,,2,8,10,,,0,1,1,2111 N 114th Ter
-"Kansas City KS, Midco, 150",Kansas City, KS,66109,Wyandotte,Midcontinent Communications,Cable,No,150,15,,,69.95,49.95,12,,,50,,2,8,10,,,0,1,1,2109 N 114th Ter
-"Kansas City KS, Midco, 500",Kansas City, KS,66109,Wyandotte,Midcontinent Communications,Cable,No,500,20,,,79.95,59.95,12,,,50,,2,8,10,,,0,1,1,2110 N 114th Ter
-"Kansas City KS, Peoples, 100",Kansas City, KS,,Wyandotte,Peoples Telecommunications,ADSL,No,100,10,,,135,,,,,0,,,,0,,,0,12,185,Not applicable
-"Kansas City KS, Peoples, 150",Kansas City, KS,,Wyandotte,Peoples Telecommunications,ADSL,No,150,25,,,150,,,,,0,,,,0,,,0,12,185,Not applicable
-"Kansas City KS, Peoples, 200",Kansas City, KS,,Wyandotte,Peoples Telecommunications,ADSL,No,200,25,,,165,,,,,0,,,,0,,,0,12,185,Not applicable
-"Kansas City KS, Spectrum, 200",Kansas City, KS,66104,Wyandotte,Charter,Cable,No,200,10,,,29.99,,,,,49.99,9.99,5,,5,,,0,,1,2428 Stewart Ave
-"Kansas City KS, Spectrum, 400",Kansas City, KS,66104,Wyandotte,Charter,Cable,No,400,25,,,90.99,,12,,,49.99,9.99,5,,5,,,0,,1,2428 Stewart Ave
-"Kansas City KS, Spectrum, 940",Kansas City, KS,66104,Wyandotte,Charter,Cable,No,940,35,,,125.99,89.99,12,,0,199,,5,,5,,,0,,1,2428 Stewart Ave
-"Kansas City MO, AT&T, 100",Kansas City, MO,64111,Wyandotte,AT&T Internet,Fiber,No,100,100,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,3707 Valentine Rd
-"Kansas City MO, AT&T, 1000",Kansas City, MO,64111,Wyandotte,AT&T Internet,Fiber,No,1000,1000,,,100,70,12,,0,99,,,,0,,,0,12,180,3707 Valentine Rd
-"Kansas City MO, AT&T, 300",Kansas City, MO,64111,Wyandotte,AT&T Internet,Fiber,No,300,300,1000,10,90,50,12/ongoing,,35,0,,,,0,,,0,12,180,3707 Valentine Rd
-"Kansas City MO, AT&T, 5",Kansas City, MO,64108,Wyandotte,AT&T Internet,ADSL,No,5,1,1000,10,60,40,12/ongoing,,35,99,0,,,0,,,0,12,180,3028 Grand Ave
-"Kansas City MO, AT&T, 50",Kansas City, MO,64108,Wyandotte,AT&T Internet,ADSL,No,50,10,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,3028 Grand Ave
-"Kansas City MO, CenturyLink, 20",Kansas City, MO,64106,Wyandotte,CenturyLink,ADSL,No,20,0.8,,,50,50,,,,125,,5,15,20,,150,150,1,,Not applicable
-"Kansas City MO, Consolidated, 100",Kansas City, MO,64114,Wyandotte,Consolidated Communications,Cable,No,100,5,,,79.95,54.95,12,,,0,,10,8,18,,,0,12,,441 W 81st St Apt 106
-"Kansas City MO, Consolidated, 20",Kansas City, MO,64114,Wyandotte,Consolidated Communications,Cable,No,20,5,,,50.95,30.95,12,,,0,,10,8,18,,,0,12,,441 W 81st St Apt 106
-"Kansas City MO, Consolidated, 50",Kansas City, MO,64114,Wyandotte,Consolidated Communications,Cable,No,50,5,,,65.95,45.95,12,,,0,,10,8,18,,,0,12,,441 W 81st St Apt 106
-"Kansas City MO, Google, 100",Kansas City, MO,64108,Wyandotte,Google Fiber,Fiber,No,100,100,,,50,,,,,,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, Google, 1000",Kansas City, MO,64108,Wyandotte,Google Fiber,Fiber,No,1000,1000,,,70,,,,,,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, KCCoyote, 1",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,1,1,,,39.95,39.95,,,,300,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, KCCoyote, 1-2",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,2,2,,,49.95,49.95,,,,300,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, KCCoyote, 2-3",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,3,3,,,59.95,59.95,,,,300,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, KCCoyote, 3-4",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,4,4,,,69.95,69.95,,,,300,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, KCCoyote, 4-5",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,5,5,,,79.95,79.95,,,,300,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, KCCoyote, 5-6",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,6,6,,,89.95,89.95,,,,300,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, KCCoyote, 6-7",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,7,7,,,99.95,99.95,,,,300,,0,0,0,,,0,1,,Not applicable
-"Kansas City MO, Spectrum, 200",Kansas City, MO,64111,Wyandotte,Charter,Cable,No,200,10,,,,,12,,,49.99,9.99,5,0,5,,,0,12,,3707 Valentine Rd
-"Kansas City MO, Spectrum, 400",Kansas City, MO,64111,Wyandotte,Charter,Cable,No,400,20,,,,29.99,12,,,49.99,9.99,5,0,5,,,0,1,,3707 Valentine Rd
-"Kansas City MO, Spectrum, 940",Kansas City, MO,64111,Wyandotte,Charter,Cable,No,940,35,,,,89.99,12,,,199.99,9.99,5,0,5,,,0,12,,3707 Valentine Rd
-"Kansas City MO, Xfinity, 1000",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,1000,35,,,,89.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
-"Kansas City MO, Xfinity, 1000",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,1000,35,,,,70,24,,,89.99,14.99,,11,11,,,0,24,,1912 Hazel St
-"Kansas City MO, Xfinity, 150A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,150,5,,,,44.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
-"Kansas City MO, Xfinity, 150B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,150,5,,,,64.99,12,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
-"Kansas City MO, Xfinity, 15A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,15,2,,,,19.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
-"Kansas City MO, Xfinity, 15B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,15,2,,,,39.99,12,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
-"Kansas City MO, Xfinity, 2000",Kansas City, MO,64126,Wyandotte,Comcast,Fiber,No,2000,2000,,,,299.95,24,,,89.99,14.99,,11,11,,,0,24,,1912 Hazel St
-"Kansas City MO, Xfinity, 250A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,250,5,,,,59.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
-"Kansas City MO, Xfinity, 250B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,250,5,,,,79.99,12,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
-"Kansas City MO, Xfinity, 400A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,400,10,,,,74.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
-"Kansas City MO, Xfinity, 400B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,400,10,,,,116.95,,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
-"Kansas City MO, Xfinity, 60A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,60,2,,,,29.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
-"Kansas City MO, Xfinity, 60B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,60,2,,,,49.99,12,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
-"Lafayette, AT&T, 100",Lafayette, LA,70503,Lafayette,AT&T Internet,Fiber,No,100,100,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,300 Claymore Dr
-"Lafayette, AT&T, 1000",Lafayette, LA,70503,Lafayette,AT&T Internet,Fiber,No,1000,1000,,,100,70,12,,0,99,,,,0,,,0,12,180,300 Claymore Dr
-"Lafayette, AT&T, 18",Lafayette, LA,70501,Lafayette,AT&T Internet,ADSL,No,18,1.5,1000,10,70,50,12/ongoing,,35,99,0,,,0,,,0,12,180,515 E Vermilion St
-"Lafayette, AT&T, 300",Lafayette, LA,70503,Lafayette,AT&T Internet,Fiber,No,300,300,1000,10,90,50,12/ongoing,,35,99,0,,,0,,,0,12,180,300 Claymore Dr
-"Lafayette, AT&T, 5",Lafayette, LA,70501,Lafayette,AT&T Internet,ADSL,No,5,1,1000,10,60,40,12/ongoing,,35,99,0,,,0,,,0,12,180,515 E Vermilion St
-"Lafayette, Cox, 100",Lafayette, LA,70501,Lafayette,Cox Communications,Cable,No,100,10,1000,10,83.99,49.99,24,,,0,,,10.99,10.99,,,0,1,120,515 E Vermilion St
-"Lafayette, Cox, 1000",Lafayette, LA,70501,Lafayette,Cox Communications,Cable,No,1000,35,1000,10,119.99,89.99,24,,,0,,,0,0,,,0,1,120,515 E Vermilion St
-"Lafayette, Cox, 30",Lafayette, LA,70501,Lafayette,Cox Communications,Cable,No,30,3,1000,10,65.99,29.99,12,,,0,,,10.99,10.99,,,0,12,120,515 E Vermilion St
-"Lafayette, Cox, 300",Lafayette, LA,70501,Lafayette,Cox Communications,Cable,No,300,30,1000,10,104.99,69.99,24,,,0,,,10.99,10.99,,,0,1,120,515 E Vermilion St
-"Lafayette, LUS, 100",Lafayette, LA,,Lafayette,Lafayette Utilities System,Fiber,Yes,100,100,,,62.95,56.45,6,,,50,,9.99,,9.99,,,0,12,,Not applicable
-"Lafayette, LUS, 1000",Lafayette, LA,,Lafayette,Lafayette Utilities System,Fiber,Yes,1000,1000,,,114.95,107.45,6,,,50,,9.99,,9.99,,,0,12,,Not applicable
-"Lafayette, LUS, 10000",Lafayette, LA,,Lafayette,Lafayette Utilities System,Fiber,Yes,10000,10000,,,295.95,,,,,50,,9.99,,9.99,,,0,12,,Not applicable
-"Lafayette, LUS, 300",Lafayette, LA,,Lafayette,Lafayette Utilities System,Fiber,Yes,300,300,,,88.95,81.95,6,,,50,,9.99,,9.99,,,0,12,,Not applicable
-"Los Angeles, AT&T, 100",Los Angeles, CA,90047,Los Angeles,AT&T Internet,Fiber,No,100,100,1000,10,60,50,12,,35,99,0,,,0,,,0,12,180,1824 W 64th St
-"Los Angeles, AT&T, 1000",Los Angeles, CA,90047,Los Angeles,AT&T Internet,Fiber,No,1000,1000,,,100,70,12,,35,0,0,,,0,,,0,12,180,1824 W 64th St
-"Los Angeles, AT&T, 25",Los Angeles, CA,90062,Los Angeles,AT&T Internet,ADSL,No,25,5,1000,10,60,50,12,,35,99,0,,,0,,,0,12,180,1854 W 50th St
-"Los Angeles, AT&T, 300",Los Angeles, CA,90047,Los Angeles,AT&T Internet,Fiber,No,300,300,1000,10,80,50,12,,35,0,0,,,0,,,0,12,180,1824 W 64th St
-"Los Angeles, AT&T, 5",Los Angeles, CA,90047,Los Angeles,AT&T Internet,ADSL,No,5,1,1000,10,50,40,12,,35,99,0,,,0,,,0,12,180,1824 W 64th St
-"Los Angeles, Frontier, 25",Los Angeles, CA,90047,Los Angeles,Frontier,ADSL,No,25,,,,34.99,,,,,75,,10,,10,,,0,1,,1822 W 64th St
-"Los Angeles, Frontier, 45",Los Angeles, CA,90047,Los Angeles,Frontier,ADSL,No,45,,,,44.99,,,,,40,,10,,10,,,0,1,,1823 W 64th St
-"Los Angeles, Frontier, 6",Los Angeles, CA,90047,Los Angeles,Frontier,ADSL,No,6,,,,27.99,,,,,75,0,10,,10,,,0,1,,1821 W 64th St
-"Los Angeles, Spectrum, 100",Los Angeles, CA,90011,Los Angeles,Charter,Cable,No,100,,,,65.99,44.99,12,,,49.99,9.99,,,0,,,0,,1,905 E Vernon Ave
-"Los Angeles, Spectrum, 30",Los Angeles, CA,90011,Los Angeles,Charter,Cable,No,30,,,,14.99,,,,,49.99,9.99,,,0,,,0,,1,905 E Vernon Ave
-"Los Angeles, Spectrum, 400",Los Angeles, CA,90011,Los Angeles,Charter,Cable,No,400,,,,90.99,64.99,12,,,49.99,9.99,,,0,,,0,,1,905 E Vernon Ave
-"Los Angeles, Spectrum, 940",Los Angeles, CA,90011,Los Angeles,Charter,Cable,No,940,,,,125.99,104.99,12,,,199.99,,,,0,,,0,,1,905 E Vernon Ave
-"New York NY, Optimum, 200",New York, NY,11226,New York,Optimum by Altice,Cable,No,200,35,,,,44.99,price for life promotion,,0,59,,0,10,10,,,0,,,2412 Cortelyou Road
-"New York NY, Optimum, 300",New York, NY,11226,New York,Optimum by Altice,Cable,No,300,35,,,,54.99,price for life promotion,,0,0,,0,10,10,,,0,,,2413 Cortelyou Road
-"New York NY, Optimum, 400",New York, NY,11226,New York,Optimum by Altice,Cable,No,400,40,,,,64.99,price for life promotion,,0,0,,0,10,10,,,0,,,2414 Cortelyou Road
-"New York, BarrierFree, 10",New York, NY,,New York,Barrier Communications,Fiber,No,10,10,,,99,99,,,,,,0,10,10,,,0,,,Not applicable
-"New York, Fios, 1000",New York, NY,11205,New York,Verizon,Fiber,No,1000,1000,,,134.99,89.99,,10,,99,,0,,0,,199.99,199.99,1,350,140 Washington Ave
-"New York, Fios, 200",New York, NY,11205,New York,Verizon,Fiber,No,200,200,,,114.99,49.99,12,10,,99,,12,,12,,199.99,199.99,12,350,140 Washington Ave
-"New York, Fios, 200",New York, NY,11205,New York,Verizon,Fiber,No,200,200,,,114.99,59.99,36,10,,99,,12,,12,,199.99,199.99,36,350,140 Washington Ave
-"New York, Fios, 400",New York, NY,11205,New York,Verizon,Fiber,No,400,400,,,124.99,69.99,24,10,,99,,12,,12,,199,199,24,350,Not applicable
-"New York, NY, Brooklyn Fiber Basic",New York, NY,,New York,Brooklyn Fiber,Fiber,No,20,10,,,75,,,,,0,,,,0,,,0,1,,Not applicable
-"New York, NY, Brooklyn Fiber Pro",New York, NY,,New York,Brooklyn Fiber,Fiber,No,50,25,,,215,,,,,0,,,,0,,,0,1,,Not applicable
-"New York, NY, Brooklyn Fiber Speed",New York, NY,,New York,Brooklyn Fiber,Fiber,No,30,20,,,100,,,,,0,,,,0,,,0,1,,Not applicable
-"New York, NY, Optimum, 30",New York, NY,,New York,Optimum by Altice,Cable,No,30,3,,,14.99,,,,,30,,0,0,0,,,0,1,,Not applicable
-"New York, RCN 500",New York, NY,11201,New York,Radiate Holdings,Fiber,No,500,500,,,,34.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,"195 Adams St, APT 2G"
-"New York, RCN, 1000",New York, NY,11201,New York,Radiate Holdings,Fiber,No,1000,1000,,,,49.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,"195 Adams St, APT 2G"
-"New York, RCN, 155",New York, NY,11201,New York,Radiate Holdings,Fiber,No,155,155,,,,29.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,"195 Adams St, APT 2G"
-"New York, RCN, 250",New York, NY,11201,New York,Radiate Holdings,Fiber,No,250,250,,,,34.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,"195 Adams St, APT 2G"
-"New York, Spectrum, 100",New York, NY,10110,New York,Charter,Cable,No,100,10,,,,44.99,12,,,49.99,9.99,5,0,5,,,0,1,,"275 Central Park W, 201"
-"New York, Spectrum, 200",New York, NY,10027,New York,Charter,Cable,No,200,10,,,65.99,44.99,12,,,49.99,9.99,5,0,5,,,0,1,,"132 W 127th ST, 1"
-"New York, Spectrum, 30",New York, NY,10034,New York,Charter,Cable,No,30,4,,,14.99,14.99,,,,49.99,9.99,5,0,5,,,0,1,,"109 Sherman Ave, 1"
-"New York, Spectrum, 400",New York, NY,10027,New York,Charter,Cable,No,400,20,,,90.99,64.99,12,,,49.99,9.99,5,0,5,,,0,1,,"132 W 127th ST, 1"
-"New York, Spectrum, 940",New York, NY,10027,New York,Charter,Cable,No,940,35,,,125.99,104.99,12,,,199.99,9.99,0,0,0,,,0,1,,"132 W 127th ST, 1"
-"San Francisco, AT&T, 100",San Francisco, CA,94121,San Francisco,AT&T Internet,Fiber,No,100,100,1000,10,70,50,12,,35,99,0,,,0,,,0,12,180,378 20th Ave
-"San Francisco, AT&T, 1000",San Francisco, CA,94121,San Francisco,AT&T Internet,Fiber,No,1000,1000,1000,10,100,70,12,,,99,,,,0,,,0,12,180,378 20th Ave
-"San Francisco, AT&T, 18",San Francisco, CA,94110,San Francisco,AT&T Internet,ADSL,No,18,1.5,1000,10,60,50,12,,35,99,0,,,0,,,0,12,180,3376 23rd St
-"San Francisco, AT&T, 300",San Francisco, CA,94121,San Francisco,AT&T Internet,Fiber,No,300,300,1000,10,90,50,12,,,0,,,,0,,,0,12,180,378 20th Ave
-"San Francisco, AT&T, 5",San Francisco, CA,94121,San Francisco,AT&T Internet,ADSL,No,5,1,1000,10,50,40,12,,35,99,0,,,0,,,0,12,180,378 20th Ave
-"San Francisco, EarthLink, 1000",San Francisco, CA,,San Francisco,EarthLink,Fiber,No,1000,1000,,,,49.95,,,50,50,0,,6.95,6.95,,,0,12,200,Not applicable
-"San Francisco, i-Step, 1.5",San Francisco, CA,,San Francisco,i-Step,DSL,No,1.5,0.384,,,39,,,,,0,,,,0,,,0,,,Not applicable
-"San Francisco, i-Step, 1.5",San Francisco, CA,,San Francisco,i-Step,DSL,No,1.5,0.384,,,49,,,,,25,,,,0,,,0,,,Not applicable
-"San Francisco, i-Step, 10",San Francisco, CA,,San Francisco,i-Step,DSL,No,10,1,,,91,,,,,25,,,,0,,,0,,,Not applicable
-"San Francisco, i-Step, 15",San Francisco, CA,,San Francisco,i-Step,DSL,No,15,1,,,98,,,,,25,,,,0,,,0,,,Not applicable
-"San Francisco, i-Step, 6",San Francisco, CA,,San Francisco,i-Step,DSL,No,6,0.768,,,49,,,,,0,,,,0,,,0,,,Not applicable
-"San Francisco, i-Step, 6",San Francisco, CA,,San Francisco,i-Step,DSL,No,6,0.768,,,69,,,,,25,,,,0,,,0,,,Not applicable
-"San Francisco, i-Step, 8",San Francisco, CA,,San Francisco,i-Step,DSL,No,8,1,,,83,,,,,25,,,,0,,,0,,,Not applicable
-"San Francisco, LMi 1000",San Francisco, CA,,San Francisco,LMi,Fiber,No,1000,1000,,,49.95,39.95,10,,,0,,9.5,,9.5,,,0,1,0,Not applicable
-"San Francisco, LMi 50",San Francisco, CA,,San Francisco,LMi,ADSL2+,No,50,16,,,49.95,39.95,12,,,150,,9.5,,9.5,,,0,1,0,Not applicable
-"San Francisco, Race, 1000",San Francisco, CA,94109,San Francisco,Race Communications,Fiber,No,1000,1000,,,60,,,,,,,10,,10,,,0,,,Not applicable
-"San Francisco, Race, 25",San Francisco, CA,,San Francisco,Race Communications,Fiber,No,25,25,,,25,,,,,,,10,,10,,,0,,,Not applicable
-"San Francisco, Raw, 12",San Francisco, CA,,San Francisco,Raw Bandwidth,ADSL,No,12,1,,,39.95,,,,50,50,0,,,0,,,0,12,15/remaining month,Not applicable
-"San Francisco, Raw, 20",San Francisco, CA,,San Francisco,Raw Bandwidth,ADSL,No,20,1.5,,,49.95,,,,50,50,0,,,0,,,0,12,15/remaining month,Not applicable
-"San Francisco, Raw, 3",San Francisco, CA,,San Francisco,Raw Bandwidth,ADSL,No,3,0.512,,,29.95,,,,50,50,0,,,0,,,0,12,15/remaining month,Not applicable
-"San Francisco, Raw, 50",San Francisco, CA,,San Francisco,Raw Bandwidth,VDSL,No,50,5,,,49.95,,,,50,50,0,,,0,,,0,12,15/remaining month,Not applicable
-"San Francisco, Sonic, 1000",San Francisco, CA,94121,San Francisco,Sonic Telecom,Fiber,No,1000,1000,,,50,40,12,,,0,,,9.5,9.5,,,0,1,149,378 20th Ave
-"San Francisco, Wave, 1000",San Francisco, CA,94110,San Francisco,WaveDivision Holdings,Cable,No,1000,10,,,99.95,49.95,12,,,60,,,15,15,,,0,1,,3376 23rd St
-"San Francisco, Wave, 250",San Francisco, CA,94110,San Francisco,WaveDivision Holdings,Cable,No,250,10,500,,79.95,29.95,12,,,60,,,15,15,,,0,1,,3376 23rd St
-"San Francisco, Wave, 50",San Francisco, CA,94110,San Francisco,WaveDivision Holdings,Cable,No,50,5,300,,49.95,19.95,12,,,60,,,15,15,,,0,1,,3376 23rd St
-"San Francisco, Wave, 500",San Francisco, CA,94110,San Francisco,WaveDivision Holdings,Cable,No,500,10,1000,,89.95,39.95,12,,,60,,,15,15,,,0,1,,3376 23rd St
-"San Francisco, webpass, 1 year",San Francisco, CA,94109,San Francisco,Google Fiber,Fiber,No,1000,,,,46,,,,,0,,,,0,,,0,12,,1433 Bush Street 94109
-"San Francisco, webpass, monthly ",San Francisco, CA,94109,San Francisco,Google Fiber,Fiber,No,1000,,,,60,,,,,0,,,,0,,,0,1,,1433 Bush Street 94109
-"San Francisco, Xfinity, 1000A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,1000,35,,,,89.99,12,,,89.99,15,,13,13,,,0,24,,1928 Pine St
-"San Francisco, Xfinity, 1000B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,1000,35,,,,89.99,24,,,89.99,15,,13,13,,,0,1,,1928 Pine St
-"San Francisco, Xfinity, 150A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,150,5,,,,44.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
-"San Francisco, Xfinity, 150B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,150,5,,,,64.99,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
-"San Francisco, Xfinity, 15A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,15,2,,,,29.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
-"San Francisco, Xfinity, 15B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,15,2,,,,39.99,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
-"San Francisco, Xfinity, 2000",San Francisco, CA,,San Francisco,Comcast,Cable,No,2000,2000,,,,299.95,24,,,,,,,0,,,0,24,,Not applicable
-"San Francisco, Xfinity, 250A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,250,10,,,,59.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
-"San Francisco, Xfinity, 250B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,250,10,,,,79.99,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
-"San Francisco, Xfinity, 400A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,400,,,,,74.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
-"San Francisco, Xfinity, 400B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,400,,,,,118.95,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
-"San Francisco, Xfinity, 60A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,60,5,,,,29.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
-"San Francisco, Xfinity, 60B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,60,5,,,,49.99,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
-"Seattle, CenturyLink, 1000",Seattle, WA,98126,King,CenturyLink,Fiber,No,940,940,,,85,65,,,,0,,,,0,,0,0,1,,3278 38th Ave SW
-"Seattle, CenturyLink, 12",Seattle, WA,98102,King,CenturyLink,ADSL,No,12,,,,,45,,,,99,0,,10,10,,100,100,1,1,505 11th Ave E
-"Seattle, CenturyLink, 5",Seattle, WA,98116,King,CenturyLink,ADSL,No,5,,,,,45,,,,99,0,,10,10,,100,100,1,1,2229 44th Ave SW
-"Seattle, CenturyLink, 7",Seattle, WA,98116,King,CenturyLink,ADSL,No,7,,,,,45,,,,99,0,,10,10,,100,100,1,1,4106 SW Lander St
-"Seattle, Wave 1000",Seattle, WA,98122,King,WaveDivision Holdings,Cable,No,1000,10,2000,Throttling,99.95,79.95,12,,,60,,2,13,15,,,0,1,1,910 13th Ave
-"Seattle, Wave, 10",Seattle, WA,98122,King,WaveDivision Holdings,Cable,No,10,1,100,,42.95,29.95,12,,,60,,2,13,15,,,0,1,1,910 13th Ave
-"Seattle, Wave, 100",Seattle, WA,98122,King,WaveDivision Holdings,Cable,No,100,5,400,,69.95,39.95,12,,,60,,2,13,15,,,0,1,1,910 13th Ave
-"Seattle, Wave, 250",Seattle, WA,98122,King,WaveDivision Holdings,Cable,No,250,10,500,,79.95,49.95,12,,,60,,2,13,15,,,0,1,1,910 13th Ave
-"Seattle, WaveG, 100",Seattle, WA,98121,King,WaveDivision Holdings,Fiber,No,100,100,2000,Throttling,60,,,,,,,13,,13,,,0,1,1,2300 Elliot Ave
-"Seattle, WaveG, 1000",Seattle, WA,98121,King,WaveDivision Holdings,Fiber,No,1000,1000,2000,Throttling,80,,,,,,,13,,13,,,0,1,1,25 Vine St
-"Seattle, Webpass, 1000A",Seattle, WA,98121,King,Google Fiber,Fiber,No,1000,1000,,,60,,,,,0,,,,0,,,0,1,,425 Vine St
-"Seattle, Webpass, 1000B",Seattle, WA,98121,King,Google Fiber,Fiber,No,1000,1000,,,46,,,,,0,,,,0,,,0,12,,425 Vine St
-"Seattle, Xfinity, 1000A",Seattle, WA,98109,King,Comcast,Cable,No,1000,,1000,10,,89.99,12,,,89.99,,,13,13,,,0,12,,110 Taylor Ave
-"Seattle, Xfinity, 1000B",Seattle, WA,98109,King,Comcast,Cable,No,1000,,1000,10,,89.99,24,,,89.99,,,13,13,,,0,24,,111 Taylor Ave
-"Seattle, Xfinity, 150A",Seattle, WA,98109,King,Comcast,Cable,No,150,5,1000,10,,44.99,12,,,89.99,14.99,,13,13,,,0,12,,104 Taylor Ave
-"Seattle, Xfinity, 150B",Seattle, WA,98109,King,Comcast,Cable,No,150,5,1000,10,,64.99,12,,,89.99,14.99,,13,13,,,0,1,,105 Taylor Ave
-"Seattle, Xfinity, 15A",Seattle, WA,98109,King,Comcast,Cable,No,15,2,1000,10,,29.99,12,,,89.99,14.99,,13,13,,,0,12,,100 Taylor Ave
-"Seattle, Xfinity, 15B",Seattle, WA,98109,King,Comcast,Cable,No,15,2,1000,10,,39.99,12,,,89.99,14.99,,13,13,,,0,1,,100 Taylor Ave
-"Seattle, Xfinity, 2000",Seattle, WA,98109,King,Comcast,Cable,No,2000,,,,299.95,299.95,,,,,,,13,13,,,0,24,,112 Taylor Ave
-"Seattle, Xfinity, 250A",Seattle, WA,98109,King,Comcast,Cable,No,250,10,1000,10,,59.99,12,,,89.99,14.99,,13,13,,,0,12,,106 Taylor Ave
-"Seattle, Xfinity, 250B",Seattle, WA,98109,King,Comcast,Cable,No,250,10,1000,10,,79.99,12,,,89.99,14.99,,13,13,,,0,1,,107 Taylor Ave
-"Seattle, Xfinity, 400A",Seattle, WA,98109,King,Comcast,Cable,No,400,,1000,10,,74.99,12,,,89.99,14.99,,13,13,,,0,12,,108 Taylor Ave
-"Seattle, Xfinity, 400B",Seattle, WA,98109,King,Comcast,Cable,No,400,,1000,10,,111.95,,,,89.99,,,13,13,,,0,1,,109 Taylor Ave
-"Seattle, Xfinity, 60A",Seattle, WA,98109,King,Comcast,Cable,No,60,5,1000,10,,29.99,12,,,89.99,14.99,,13,13,,,0,12,,102 Taylor Ave
-"Seattle, Xfinity, 60B",Seattle, WA,98109,King,Comcast,Cable,No,60,5,1000,10,,49.99,12,,,89.99,0,,13,13,,,0,1,,103 Taylor Ave
-"Washington, Fios, 100",Washington, DC,20009,District Of Columbia,Verizon,Fiber,No,100,100,,,104.99,49.99,12,10,,39,,12,0,12,,199.99,199.99,1,350,1737 Q St NW
-"Washington, Fios, 100",Washington, DC,20009,District Of Columbia,Verizon,Fiber,No,100,100,,,104.99,57.49,24,10,,39,,12,0,12,,199.99,199.99,1,350,1737 Q St NW
-"Washington, Fios, 1000",Washington, DC,20009,District Of Columbia,Verizon,Fiber,No,940,880,,,134.99,89.99,36,10,,99,,0,0,0,,199.99,199.99,1,350,1737 Q St NW
-"Washington, Fios, 300",Washington, DC,20009,District Of Columbia,Verizon,Fiber,No,300,300,,,204.99,69.99,24,10,,99,,12,0,12,,199.99,199.99,1,350,1737 Q St NW
-"Washington, RCN, 10",Washington, DC,20017,District Of Columbia,Radiate Holdings,Cable,No,10,4,,,,19.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,1350 Jackson St NE
-"Washington, RCN, 1000",Washington, DC,20017,District Of Columbia,Radiate Holdings,Cable,No,1000,20,,,,49.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,1350 Jackson St NE
-"Washington, RCN, 155",Washington, DC,20017,District Of Columbia,Radiate Holdings,Cable,No,155,15,,,,29.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,1350 Jackson St NE
-"Washington, RCN, 330",Washington, DC,20017,District Of Columbia,Radiate Holdings,Cable,No,330,20,,,,34.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,1350 Jackson St NE
-"Washington, Xfinity, 1000A",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,1000,35,,,,79.99,36,,,29.99,14.99,,13,13,,,0,24,,1350 Jackson St NE
-"Washington, Xfinity, 1000B",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,1000,35,,,,89.99,12,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
-"Washington, Xfinity, 15",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,15,2,,,,49.95,,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
-"Washington, Xfinity, 150",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,150,5,,,,39.99,12,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
-"Washington, Xfinity, 2000",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,2000,2000,,,,299.95,24,,,29.99,14.99,,13,13,,,0,24,,1350 Jackson St NE
-"Washington, Xfinity, 250",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,250,10,,,,59.99,24,,,29.99,14.99,,13,13,,,0,12,,1350 Jackson St NE
-"Washington, Xfinity, 400A",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,400,10,,,,69.99,24,,,29.99,14.99,,13,13,,,0,12,,1350 Jackson St NE
-"Washington, Xfinity, 400B",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,400,10,,,,79.99,12,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
-"Washington, Xfinity, 60",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,60,5,,,,29.99,12,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
-"Wilson, CenturyLink, 20",Wilson, NC,27893,Wilson,CenturyLink,ADSL,No,20,,,,50,,,,,125,,5,15,20,,150,150,1,,Not applicable
-"Wilson, Greenlight 100",Wilson, NC,,Wilson,Greenlight,Fiber,Yes,100,100,,,79.95,,,,,,,,,0,,,0,,,Not applicable
-"Wilson, Greenlight, 1000",Wilson, NC,,Wilson,Greenlight,Fiber,Yes,1000,1000,,,99.95,,,,,,,,,0,,,0,,,Not applicable
-"Wilson, Greenlight, 50",Wilson, NC,,Wilson,Greenlight,Fiber,Yes,50,50,,,39.95,,,,,,,,,0,,,0,,,Not applicable
-"Wilson, Greenlight, 75",Wilson, NC,,Wilson,Greenlight,Fiber,Yes,75,75,,,59.95,,,,,,,,,0,,,0,,,Not applicable
-"Wilson, Spectrum, 200",Wilson, NC,27893,Wilson,Charter,Cable,No,200,10,,,,44.99,,,,49.99,9.99,5,0,5,,,0,1,,311 Pender St SE
-"Wilson, Spectrum, 400",Wilson, NC,27893,Wilson,Charter,Cable,No,400,20,,,90.99,64.99,,,,49.99,9.99,5,0,5,,,0,1,,311 Pender St SE
-"Wilson, Spectrum, 940",Wilson, NC,27893,Wilson,Charter,Cable,No,940,35,,,125.99,104.99,,,,49.99,9.99,0,0,0,,,0,1,,311 Pender St SE
-AT&T Houston,Houston,TX,77002,Harris,AT&T Internet,Fiber,No,75,5,1000,10,55,45,12,,,99,,,10,10,,,0,12,180,308 Main St
-Xfiniti Houston,Houston,TX,77002,Harris,Xfiniti,Fiber,No,25,5,,,77.99,,12,,,,,,,0,,,0,12,,308 Main St
-Hughesnet Houston,Houston,TX,77002,Harris,Hughesnet,Satellite,No,25,5,,,69.99,,,,,,,,,0,,,0,24,,308 Main St
+"Kansas City KS, AT&T, .786",Kansas City, KS,66104,Wyandotte,AT&T Internet,ADSL,No,0.768,0.384,65.10,1000,10,50,12,,35,99,0,,,0,,,0,,180,2428 Stewart Ave
+"Kansas City KS, AT&T, 1.5",Kansas City, KS,66102,Wyandotte,AT&T Internet,ADSL,No,1.5,1,33.33,1000,10,50,12,,35,99,0,,,0,,,0,12,180,108 S 16th St
+"Kansas City KS, AT&T, 100",Kansas City, KS,66112,Wyandotte,AT&T Internet,ADSL,No,100,20,0.60,1000,10,60,12,,35,99,0,,,0,,,0,12,180,7445 Riverview Ave
+"Kansas City KS, AT&T, 25",Kansas City, KS,66102,Wyandotte,AT&T Internet,ADSL,No,25,5,2.40,1000,10,60,12,,35,99,0,,,0,,,0,12,180,70 S 24th St
+"Kansas City KS, AT&T, 5",Kansas City, KS,66112,Wyandotte,AT&T Internet,ADSL,No,5,1,10.00,1000,10,50,12,,35,99,0,,,0,,,0,12,180,7445 Riverview Ave
+"Kansas City KS, AT&T, 50",Kansas City, KS,66102,Wyandotte,AT&T Internet,ADSL,No,50,10,1.20,1000,10,60,12,,35,99,0,,,0,,,0,12,180,1242 Grandview Blvd
+"Kansas City KS, Google, 100",Kansas City, KS,,Wyandotte,Google Fiber,Fiber,No,100,100,0.50,,,50,,,,,,,,0,,,0,1,,Not applicable
+"Kansas City KS, Google, 1000",Kansas City, KS,,Wyandotte,Google Fiber,Fiber,No,1000,1000,0.07,,,70,,,,,,,,0,,,0,1,,Not applicable
+"Kansas City KS, Midco, 100",Kansas City, KS,66109,Wyandotte,Midcontinent Communications,Cable,No,100,10,0.60,,,59.95,12,,,50,,2,8,10,,,0,1,1,2108 N 114th Ter
+"Kansas City KS, Midco, 1000",Kansas City, KS,66109,Wyandotte,Midcontinent Communications,Cable,No,1000,20,0.10,,,99.95,12,,,50,,2,8,10,,,0,1,1,2111 N 114th Ter
+"Kansas City KS, Midco, 150",Kansas City, KS,66109,Wyandotte,Midcontinent Communications,Cable,No,150,15,0.47,,,69.95,12,,,50,,2,8,10,,,0,1,1,2109 N 114th Ter
+"Kansas City KS, Midco, 500",Kansas City, KS,66109,Wyandotte,Midcontinent Communications,Cable,No,500,20,0.16,,,79.95,12,,,50,,2,8,10,,,0,1,1,2110 N 114th Ter
+"Kansas City KS, Peoples, 100",Kansas City, KS,,Wyandotte,Peoples Telecommunications,ADSL,No,100,10,1.35,,,135,,,,0,,,,0,,,0,12,185,Not applicable
+"Kansas City KS, Peoples, 150",Kansas City, KS,,Wyandotte,Peoples Telecommunications,ADSL,No,150,25,1.00,,,150,,,,0,,,,0,,,0,12,185,Not applicable
+"Kansas City KS, Peoples, 200",Kansas City, KS,,Wyandotte,Peoples Telecommunications,ADSL,No,200,25,0.83,,,165,,,,0,,,,0,,,0,12,185,Not applicable
+"Kansas City KS, Spectrum, 200",Kansas City, KS,66104,Wyandotte,Charter,Cable,No,200,10,0.15,,,29.99,,,,49.99,9.99,5,,5,,,0,,1,2428 Stewart Ave
+"Kansas City KS, Spectrum, 400",Kansas City, KS,66104,Wyandotte,Charter,Cable,No,400,25,0.23,,,90.99,12,,,49.99,9.99,5,,5,,,0,,1,2428 Stewart Ave
+"Kansas City KS, Spectrum, 940",Kansas City, KS,66104,Wyandotte,Charter,Cable,No,940,35,0.13,,,125.99,12,,0,199,,5,,5,,,0,,1,2428 Stewart Ave
+"Kansas City MO, AT&T, 100",Kansas City, MO,64111,Wyandotte,AT&T Internet,Fiber,No,100,100,0.70,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,3707 Valentine Rd
+"Kansas City MO, AT&T, 1000",Kansas City, MO,64111,Wyandotte,AT&T Internet,Fiber,No,1000,1000,0.10,,,100,12,,0,99,,,,0,,,0,12,180,3707 Valentine Rd
+"Kansas City MO, AT&T, 300",Kansas City, MO,64111,Wyandotte,AT&T Internet,Fiber,No,300,300,0.30,1000,10,90,12/ongoing,,35,0,,,,0,,,0,12,180,3707 Valentine Rd
+"Kansas City MO, AT&T, 5",Kansas City, MO,64108,Wyandotte,AT&T Internet,ADSL,No,5,1,12.00,1000,10,60,12/ongoing,,35,99,0,,,0,,,0,12,180,3028 Grand Ave
+"Kansas City MO, AT&T, 50",Kansas City, MO,64108,Wyandotte,AT&T Internet,ADSL,No,50,10,1.40,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,3028 Grand Ave
+"Kansas City MO, CenturyLink, 20",Kansas City, MO,64106,Wyandotte,CenturyLink,ADSL,No,20,0.8,2.50,,,50,,,,125,,5,15,20,,150,150,1,,Not applicable
+"Kansas City MO, Consolidated, 100",Kansas City, MO,64114,Wyandotte,Consolidated Communications,Cable,No,100,5,0.80,,,79.95,12,,,0,,10,8,18,,,0,12,,441 W 81st St Apt 106
+"Kansas City MO, Consolidated, 20",Kansas City, MO,64114,Wyandotte,Consolidated Communications,Cable,No,20,5,2.55,,,50.95,12,,,0,,10,8,18,,,0,12,,441 W 81st St Apt 106
+"Kansas City MO, Consolidated, 50",Kansas City, MO,64114,Wyandotte,Consolidated Communications,Cable,No,50,5,1.32,,,65.95,12,,,0,,10,8,18,,,0,12,,441 W 81st St Apt 106
+"Kansas City MO, Google, 100",Kansas City, MO,64108,Wyandotte,Google Fiber,Fiber,No,100,100,0.50,,,50,,,,,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, Google, 1000",Kansas City, MO,64108,Wyandotte,Google Fiber,Fiber,No,1000,1000,0.07,,,70,,,,,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, KCCoyote, 1",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,1,1,39.95,,,39.95,,,,300,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, KCCoyote, 1-2",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,2,2,24.98,,,49.95,,,,300,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, KCCoyote, 2-3",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,3,3,19.98,,,59.95,,,,300,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, KCCoyote, 3-4",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,4,4,17.49,,,69.95,,,,300,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, KCCoyote, 4-5",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,5,5,15.99,,,79.95,,,,300,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, KCCoyote, 5-6",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,6,6,14.99,,,89.95,,,,300,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, KCCoyote, 6-7",Kansas City, MO,,Wyandotte,KCCoyote,Fiber,No,7,7,14.28,,,99.95,,,,300,,0,0,0,,,0,1,,Not applicable
+"Kansas City MO, Spectrum, 400",Kansas City, MO,64111,Wyandotte,Charter,Cable,No,400,20,0.07,,,29.99,12,,,49.99,9.99,5,0,5,,,0,1,,3707 Valentine Rd
+"Kansas City MO, Spectrum, 940",Kansas City, MO,64111,Wyandotte,Charter,Cable,No,940,35,0.10,,,89.99,12,,,199.99,9.99,5,0,5,,,0,12,,3707 Valentine Rd
+"Kansas City MO, Xfinity, 1000",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,1000,35,0.09,,,89.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
+"Kansas City MO, Xfinity, 1000",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,1000,35,0.07,,,70,24,,,89.99,14.99,,11,11,,,0,24,,1912 Hazel St
+"Kansas City MO, Xfinity, 150A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,150,5,0.30,,,44.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
+"Kansas City MO, Xfinity, 150B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,150,5,0.43,,,64.99,12,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
+"Kansas City MO, Xfinity, 15A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,15,2,1.33,,,19.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
+"Kansas City MO, Xfinity, 15B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,15,2,2.67,,,39.99,12,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
+"Kansas City MO, Xfinity, 2000",Kansas City, MO,64126,Wyandotte,Comcast,Fiber,No,2000,2000,0.15,,,299.95,24,,,89.99,14.99,,11,11,,,0,24,,1912 Hazel St
+"Kansas City MO, Xfinity, 250A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,250,5,0.24,,,59.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
+"Kansas City MO, Xfinity, 250B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,250,5,0.32,,,79.99,12,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
+"Kansas City MO, Xfinity, 400A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,400,10,0.19,,,74.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
+"Kansas City MO, Xfinity, 400B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,400,10,0.29,,,116.95,,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
+"Kansas City MO, Xfinity, 60A",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,60,2,0.50,,,29.99,12,,,89.99,14.99,13,11,24,,,0,12,,1912 Hazel St
+"Kansas City MO, Xfinity, 60B",Kansas City, MO,64126,Wyandotte,Comcast,Cable,No,60,2,0.83,,,49.99,12,,,89.99,14.99,,11,11,,,0,1,,1912 Hazel St
+"Lafayette, AT&T, 100",Lafayette, LA,70503,Lafayette,AT&T Internet,Fiber,No,100,100,0.70,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,300 Claymore Dr
+"Lafayette, AT&T, 1000",Lafayette, LA,70503,Lafayette,AT&T Internet,Fiber,No,1000,1000,0.10,,,100,12,,0,99,,,,0,,,0,12,180,300 Claymore Dr
+"Lafayette, AT&T, 18",Lafayette, LA,70501,Lafayette,AT&T Internet,ADSL,No,18,1.5,3.89,1000,10,70,12/ongoing,,35,99,0,,,0,,,0,12,180,515 E Vermilion St
+"Lafayette, AT&T, 300",Lafayette, LA,70503,Lafayette,AT&T Internet,Fiber,No,300,300,0.30,1000,10,90,12/ongoing,,35,99,0,,,0,,,0,12,180,300 Claymore Dr
+"Lafayette, AT&T, 5",Lafayette, LA,70501,Lafayette,AT&T Internet,ADSL,No,5,1,12.00,1000,10,60,12/ongoing,,35,99,0,,,0,,,0,12,180,515 E Vermilion St
+"Lafayette, Cox, 100",Lafayette, LA,70501,Lafayette,Cox Communications,Cable,No,100,10,0.84,1000,10,83.99,24,,,0,,,10.99,10.99,,,0,1,120,515 E Vermilion St
+"Lafayette, Cox, 1000",Lafayette, LA,70501,Lafayette,Cox Communications,Cable,No,1000,35,0.12,1000,10,119.99,24,,,0,,,0,0,,,0,1,120,515 E Vermilion St
+"Lafayette, Cox, 30",Lafayette, LA,70501,Lafayette,Cox Communications,Cable,No,30,3,2.20,1000,10,65.99,12,,,0,,,10.99,10.99,,,0,12,120,515 E Vermilion St
+"Lafayette, Cox, 300",Lafayette, LA,70501,Lafayette,Cox Communications,Cable,No,300,30,0.35,1000,10,104.99,24,,,0,,,10.99,10.99,,,0,1,120,515 E Vermilion St
+"Lafayette, LUS, 100",Lafayette, LA,,Lafayette,Lafayette Utilities System,Fiber,Yes,100,100,0.63,,,62.95,6,,,50,,9.99,,9.99,,,0,12,,Not applicable
+"Lafayette, LUS, 1000",Lafayette, LA,,Lafayette,Lafayette Utilities System,Fiber,Yes,1000,1000,0.11,,,114.95,6,,,50,,9.99,,9.99,,,0,12,,Not applicable
+"Lafayette, LUS, 10000",Lafayette, LA,,Lafayette,Lafayette Utilities System,Fiber,Yes,10000,10000,0.03,,,295.95,,,,50,,9.99,,9.99,,,0,12,,Not applicable
+"Lafayette, LUS, 300",Lafayette, LA,,Lafayette,Lafayette Utilities System,Fiber,Yes,300,300,0.30,,,88.95,6,,,50,,9.99,,9.99,,,0,12,,Not applicable
+"Los Angeles, AT&T, 100",Los Angeles, CA,90047,Los Angeles,AT&T Internet,Fiber,No,100,100,0.60,1000,10,60,12,,35,99,0,,,0,,,0,12,180,1824 W 64th St
+"Los Angeles, AT&T, 1000",Los Angeles, CA,90047,Los Angeles,AT&T Internet,Fiber,No,1000,1000,0.10,,,100,12,,35,0,0,,,0,,,0,12,180,1824 W 64th St
+"Los Angeles, AT&T, 25",Los Angeles, CA,90062,Los Angeles,AT&T Internet,ADSL,No,25,5,2.40,1000,10,60,12,,35,99,0,,,0,,,0,12,180,1854 W 50th St
+"Los Angeles, AT&T, 300",Los Angeles, CA,90047,Los Angeles,AT&T Internet,Fiber,No,300,300,0.27,1000,10,80,12,,35,0,0,,,0,,,0,12,180,1824 W 64th St
+"Los Angeles, AT&T, 5",Los Angeles, CA,90047,Los Angeles,AT&T Internet,ADSL,No,5,1,10.00,1000,10,50,12,,35,99,0,,,0,,,0,12,180,1824 W 64th St
+"Los Angeles, Frontier, 25",Los Angeles, CA,90047,Los Angeles,Frontier,ADSL,No,25,,1.40,,,34.99,,,,75,,10,,10,,,0,1,,1822 W 64th St
+"Los Angeles, Frontier, 45",Los Angeles, CA,90047,Los Angeles,Frontier,ADSL,No,45,,1.00,,,44.99,,,,40,,10,,10,,,0,1,,1823 W 64th St
+"Los Angeles, Frontier, 6",Los Angeles, CA,90047,Los Angeles,Frontier,ADSL,No,6,,4.67,,,27.99,,,,75,0,10,,10,,,0,1,,1821 W 64th St
+"Los Angeles, Spectrum, 100",Los Angeles, CA,90011,Los Angeles,Charter,Cable,No,100,,0.66,,,65.99,12,,,49.99,9.99,,,0,,,0,,1,905 E Vernon Ave
+"Los Angeles, Spectrum, 30",Los Angeles, CA,90011,Los Angeles,Charter,Cable,No,30,,0.50,,,14.99,,,,49.99,9.99,,,0,,,0,,1,905 E Vernon Ave
+"Los Angeles, Spectrum, 400",Los Angeles, CA,90011,Los Angeles,Charter,Cable,No,400,,0.23,,,90.99,12,,,49.99,9.99,,,0,,,0,,1,905 E Vernon Ave
+"Los Angeles, Spectrum, 940",Los Angeles, CA,90011,Los Angeles,Charter,Cable,No,940,,0.13,,,125.99,12,,,199.99,,,,0,,,0,,1,905 E Vernon Ave
+"New York NY, Optimum, 200",New York, NY,11226,New York,Optimum by Altice,Cable,No,200,35,0.22,,,44.99,price for life promotion,,0,59,,0,10,10,,,0,,,2412 Cortelyou Road
+"New York NY, Optimum, 300",New York, NY,11226,New York,Optimum by Altice,Cable,No,300,35,0.18,,,54.99,price for life promotion,,0,0,,0,10,10,,,0,,,2413 Cortelyou Road
+"New York NY, Optimum, 400",New York, NY,11226,New York,Optimum by Altice,Cable,No,400,40,0.16,,,64.99,price for life promotion,,0,0,,0,10,10,,,0,,,2414 Cortelyou Road
+"New York, BarrierFree, 10",New York, NY,,New York,Barrier Communications,Fiber,No,10,10,9.90,,,99,,,,,,0,10,10,,,0,,,Not applicable
+"New York, Fios, 1000",New York, NY,11205,New York,Verizon,Fiber,No,1000,1000,0.13,,,134.99,,10,,99,,0,,0,,199.99,199.99,1,350,140 Washington Ave
+"New York, Fios, 200",New York, NY,11205,New York,Verizon,Fiber,No,200,200,0.57,,,114.99,12,10,,99,,12,,12,,199.99,199.99,12,350,140 Washington Ave
+"New York, Fios, 200",New York, NY,11205,New York,Verizon,Fiber,No,200,200,0.57,,,114.99,36,10,,99,,12,,12,,199.99,199.99,36,350,140 Washington Ave
+"New York, Fios, 400",New York, NY,11205,New York,Verizon,Fiber,No,400,400,0.31,,,124.99,24,10,,99,,12,,12,,199,199,24,350,Not applicable
+"New York, NY, Brooklyn Fiber Basic",New York, NY,,New York,Brooklyn Fiber,Fiber,No,20,10,3.75,,,75,,,,0,,,,0,,,0,1,,Not applicable
+"New York, NY, Brooklyn Fiber Pro",New York, NY,,New York,Brooklyn Fiber,Fiber,No,50,25,4.30,,,215,,,,0,,,,0,,,0,1,,Not applicable
+"New York, NY, Brooklyn Fiber Speed",New York, NY,,New York,Brooklyn Fiber,Fiber,No,30,20,3.33,,,100,,,,0,,,,0,,,0,1,,Not applicable
+"New York, NY, Optimum, 30",New York, NY,,New York,Optimum by Altice,Cable,No,30,3,0.50,,,14.99,,,,30,,0,0,0,,,0,1,,Not applicable
+"New York, RCN 500",New York, NY,11201,New York,Radiate Holdings,Fiber,No,500,500,0.07,,,34.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,"195 Adams St, APT 2G"
+"New York, RCN, 1000",New York, NY,11201,New York,Radiate Holdings,Fiber,No,1000,1000,0.05,,,49.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,"195 Adams St, APT 2G"
+"New York, RCN, 155",New York, NY,11201,New York,Radiate Holdings,Fiber,No,155,155,0.19,,,29.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,"195 Adams St, APT 2G"
+"New York, RCN, 250",New York, NY,11201,New York,Radiate Holdings,Fiber,No,250,250,0.14,,,34.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,"195 Adams St, APT 2G"
+"New York, Spectrum, 100",New York, NY,10110,New York,Charter,Cable,No,100,10,0.45,,,44.99,12,,,49.99,9.99,5,0,5,,,0,1,,"275 Central Park W, 201"
+"New York, Spectrum, 200",New York, NY,10027,New York,Charter,Cable,No,200,10,0.33,,,65.99,12,,,49.99,9.99,5,0,5,,,0,1,,"132 W 127th ST, 1"
+"New York, Spectrum, 30",New York, NY,10034,New York,Charter,Cable,No,30,4,0.50,,,14.99,,,,49.99,9.99,5,0,5,,,0,1,,"109 Sherman Ave, 1"
+"New York, Spectrum, 400",New York, NY,10027,New York,Charter,Cable,No,400,20,0.23,,,90.99,12,,,49.99,9.99,5,0,5,,,0,1,,"132 W 127th ST, 1"
+"New York, Spectrum, 940",New York, NY,10027,New York,Charter,Cable,No,940,35,0.13,,,125.99,12,,,199.99,9.99,0,0,0,,,0,1,,"132 W 127th ST, 1"
+"San Francisco, AT&T, 100",San Francisco, CA,94121,San Francisco,AT&T Internet,Fiber,No,100,100,0.70,1000,10,70,12,,35,99,0,,,0,,,0,12,180,378 20th Ave
+"San Francisco, AT&T, 1000",San Francisco, CA,94121,San Francisco,AT&T Internet,Fiber,No,1000,1000,0.10,1000,10,100,12,,,99,,,,0,,,0,12,180,378 20th Ave
+"San Francisco, AT&T, 18",San Francisco, CA,94110,San Francisco,AT&T Internet,ADSL,No,18,1.5,3.33,1000,10,60,12,,35,99,0,,,0,,,0,12,180,3376 23rd St
+"San Francisco, AT&T, 300",San Francisco, CA,94121,San Francisco,AT&T Internet,Fiber,No,300,300,0.30,1000,10,90,12,,,0,,,,0,,,0,12,180,378 20th Ave
+"San Francisco, AT&T, 5",San Francisco, CA,94121,San Francisco,AT&T Internet,ADSL,No,5,1,10.00,1000,10,50,12,,35,99,0,,,0,,,0,12,180,378 20th Ave
+"San Francisco, EarthLink, 1000",San Francisco, CA,,San Francisco,EarthLink,Fiber,No,1000,1000,0.05,,,49.95,,,50,50,0,,6.95,6.95,,,0,12,200,Not applicable
+"San Francisco, i-Step, 1.5",San Francisco, CA,,San Francisco,i-Step,DSL,No,1.5,0.384,26.00,,,39,,,,0,,,,0,,,0,,,Not applicable
+"San Francisco, i-Step, 1.5",San Francisco, CA,,San Francisco,i-Step,DSL,No,1.5,0.384,32.67,,,49,,,,25,,,,0,,,0,,,Not applicable
+"San Francisco, i-Step, 10",San Francisco, CA,,San Francisco,i-Step,DSL,No,10,1,9.10,,,91,,,,25,,,,0,,,0,,,Not applicable
+"San Francisco, i-Step, 15",San Francisco, CA,,San Francisco,i-Step,DSL,No,15,1,6.53,,,98,,,,25,,,,0,,,0,,,Not applicable
+"San Francisco, i-Step, 6",San Francisco, CA,,San Francisco,i-Step,DSL,No,6,0.768,8.17,,,49,,,,0,,,,0,,,0,,,Not applicable
+"San Francisco, i-Step, 6",San Francisco, CA,,San Francisco,i-Step,DSL,No,6,0.768,11.50,,,69,,,,25,,,,0,,,0,,,Not applicable
+"San Francisco, i-Step, 8",San Francisco, CA,,San Francisco,i-Step,DSL,No,8,1,10.38,,,83,,,,25,,,,0,,,0,,,Not applicable
+"San Francisco, LMi 1000",San Francisco, CA,,San Francisco,LMi,Fiber,No,1000,1000,0.05,,,49.95,10,,,0,,9.5,,9.5,,,0,1,0,Not applicable
+"San Francisco, LMi 50",San Francisco, CA,,San Francisco,LMi,ADSL2+,No,50,16,1.00,,,49.95,12,,,150,,9.5,,9.5,,,0,1,0,Not applicable
+"San Francisco, Race, 1000",San Francisco, CA,94109,San Francisco,Race Communications,Fiber,No,1000,1000,0.06,,,60,,,,,,10,,10,,,0,,,Not applicable
+"San Francisco, Race, 25",San Francisco, CA,,San Francisco,Race Communications,Fiber,No,25,25,1.00,,,25,,,,,,10,,10,,,0,,,Not applicable
+"San Francisco, Raw, 12",San Francisco, CA,,San Francisco,Raw Bandwidth,ADSL,No,12,1,3.33,,,39.95,,,50,50,0,,,0,,,0,12,15/remaining month,Not applicable
+"San Francisco, Raw, 20",San Francisco, CA,,San Francisco,Raw Bandwidth,ADSL,No,20,1.5,2.50,,,49.95,,,50,50,0,,,0,,,0,12,15/remaining month,Not applicable
+"San Francisco, Raw, 3",San Francisco, CA,,San Francisco,Raw Bandwidth,ADSL,No,3,0.512,9.98,,,29.95,,,50,50,0,,,0,,,0,12,15/remaining month,Not applicable
+"San Francisco, Raw, 50",San Francisco, CA,,San Francisco,Raw Bandwidth,VDSL,No,50,5,1.00,,,49.95,,,50,50,0,,,0,,,0,12,15/remaining month,Not applicable
+"San Francisco, Sonic, 1000",San Francisco, CA,94121,San Francisco,Sonic Telecom,Fiber,No,1000,1000,0.05,,,50,12,,,0,,,9.5,9.5,,,0,1,149,378 20th Ave
+"San Francisco, Wave, 1000",San Francisco, CA,94110,San Francisco,WaveDivision Holdings,Cable,No,1000,10,0.10,,,99.95,12,,,60,,,15,15,,,0,1,,3376 23rd St
+"San Francisco, Wave, 250",San Francisco, CA,94110,San Francisco,WaveDivision Holdings,Cable,No,250,10,0.32,500,,79.95,12,,,60,,,15,15,,,0,1,,3376 23rd St
+"San Francisco, Wave, 50",San Francisco, CA,94110,San Francisco,WaveDivision Holdings,Cable,No,50,5,1.00,300,,49.95,12,,,60,,,15,15,,,0,1,,3376 23rd St
+"San Francisco, Wave, 500",San Francisco, CA,94110,San Francisco,WaveDivision Holdings,Cable,No,500,10,0.18,1000,,89.95,12,,,60,,,15,15,,,0,1,,3376 23rd St
+"San Francisco, webpass, 1 year",San Francisco, CA,94109,San Francisco,Google Fiber,Fiber,No,1000,,0.05,,,46,,,,0,,,,0,,,0,12,,1433 Bush Street 94109
+"San Francisco, webpass, monthly ",San Francisco, CA,94109,San Francisco,Google Fiber,Fiber,No,1000,,0.06,,,60,,,,0,,,,0,,,0,1,,1433 Bush Street 94109
+"San Francisco, Xfinity, 1000A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,1000,35,0.09,,,89.99,12,,,89.99,15,,13,13,,,0,24,,1928 Pine St
+"San Francisco, Xfinity, 1000B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,1000,35,0.09,,,89.99,24,,,89.99,15,,13,13,,,0,1,,1928 Pine St
+"San Francisco, Xfinity, 150A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,150,5,0.30,,,44.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
+"San Francisco, Xfinity, 150B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,150,5,0.43,,,64.99,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
+"San Francisco, Xfinity, 15A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,15,2,2.00,,,29.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
+"San Francisco, Xfinity, 15B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,15,2,2.67,,,39.99,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
+"San Francisco, Xfinity, 2000",San Francisco, CA,,San Francisco,Comcast,Cable,No,2000,2000,0.15,,,299.95,24,,,,,,,0,,,0,24,,Not applicable
+"San Francisco, Xfinity, 250A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,250,10,0.24,,,59.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
+"San Francisco, Xfinity, 250B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,250,10,0.32,,,79.99,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
+"San Francisco, Xfinity, 400A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,400,,0.19,,,74.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
+"San Francisco, Xfinity, 400B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,400,,0.30,,,118.95,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
+"San Francisco, Xfinity, 60A",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,60,5,0.50,,,29.99,12,,,89.99,15,,13,13,,,0,12,,1928 Pine St
+"San Francisco, Xfinity, 60B",San Francisco, CA,94109,San Francisco,Comcast,Cable,No,60,5,0.83,,,49.99,12,,,89.99,15,,13,13,,,0,1,,1928 Pine St
+"Seattle, CenturyLink, 1000",Seattle, WA,98126,King,CenturyLink,Fiber,No,940,940,0.09,,,85,,,,0,,,,0,,0,0,1,,3278 38th Ave SW
+"Seattle, CenturyLink, 12",Seattle, WA,98102,King,CenturyLink,ADSL,No,12,,3.75,,,45,,,,99,0,,10,10,,100,100,1,1,505 11th Ave E
+"Seattle, CenturyLink, 5",Seattle, WA,98116,King,CenturyLink,ADSL,No,5,,9.00,,,45,,,,99,0,,10,10,,100,100,1,1,2229 44th Ave SW
+"Seattle, CenturyLink, 7",Seattle, WA,98116,King,CenturyLink,ADSL,No,7,,6.43,,,45,,,,99,0,,10,10,,100,100,1,1,4106 SW Lander St
+"Seattle, Wave 1000",Seattle, WA,98122,King,WaveDivision Holdings,Cable,No,1000,10,0.10,2000,Throttling,99.95,12,,,60,,2,13,15,,,0,1,1,910 13th Ave
+"Seattle, Wave, 10",Seattle, WA,98122,King,WaveDivision Holdings,Cable,No,10,1,4.30,100,,42.95,12,,,60,,2,13,15,,,0,1,1,910 13th Ave
+"Seattle, Wave, 100",Seattle, WA,98122,King,WaveDivision Holdings,Cable,No,100,5,0.70,400,,69.95,12,,,60,,2,13,15,,,0,1,1,910 13th Ave
+"Seattle, Wave, 250",Seattle, WA,98122,King,WaveDivision Holdings,Cable,No,250,10,0.32,500,,79.95,12,,,60,,2,13,15,,,0,1,1,910 13th Ave
+"Seattle, WaveG, 100",Seattle, WA,98121,King,WaveDivision Holdings,Fiber,No,100,100,0.60,2000,Throttling,60,,,,,,13,,13,,,0,1,1,2300 Elliot Ave
+"Seattle, WaveG, 1000",Seattle, WA,98121,King,WaveDivision Holdings,Fiber,No,1000,1000,0.08,2000,Throttling,80,,,,,,13,,13,,,0,1,1,25 Vine St
+"Seattle, Webpass, 1000A",Seattle, WA,98121,King,Google Fiber,Fiber,No,1000,1000,0.06,,,60,,,,0,,,,0,,,0,1,,425 Vine St
+"Seattle, Webpass, 1000B",Seattle, WA,98121,King,Google Fiber,Fiber,No,1000,1000,0.05,,,46,,,,0,,,,0,,,0,12,,425 Vine St
+"Seattle, Xfinity, 1000A",Seattle, WA,98109,King,Comcast,Cable,No,1000,,0.09,1000,10,89.99,12,,,89.99,,,13,13,,,0,12,,110 Taylor Ave
+"Seattle, Xfinity, 1000B",Seattle, WA,98109,King,Comcast,Cable,No,1000,,0.09,1000,10,89.99,24,,,89.99,,,13,13,,,0,24,,111 Taylor Ave
+"Seattle, Xfinity, 150A",Seattle, WA,98109,King,Comcast,Cable,No,150,5,0.30,1000,10,44.99,12,,,89.99,14.99,,13,13,,,0,12,,104 Taylor Ave
+"Seattle, Xfinity, 150B",Seattle, WA,98109,King,Comcast,Cable,No,150,5,0.43,1000,10,64.99,12,,,89.99,14.99,,13,13,,,0,1,,105 Taylor Ave
+"Seattle, Xfinity, 15A",Seattle, WA,98109,King,Comcast,Cable,No,15,2,2.00,1000,10,29.99,12,,,89.99,14.99,,13,13,,,0,12,,100 Taylor Ave
+"Seattle, Xfinity, 15B",Seattle, WA,98109,King,Comcast,Cable,No,15,2,2.67,1000,10,39.99,12,,,89.99,14.99,,13,13,,,0,1,,100 Taylor Ave
+"Seattle, Xfinity, 2000",Seattle, WA,98109,King,Comcast,Cable,No,2000,,0.15,,,299.95,,,,,,,13,13,,,0,24,,112 Taylor Ave
+"Seattle, Xfinity, 250A",Seattle, WA,98109,King,Comcast,Cable,No,250,10,0.24,1000,10,59.99,12,,,89.99,14.99,,13,13,,,0,12,,106 Taylor Ave
+"Seattle, Xfinity, 250B",Seattle, WA,98109,King,Comcast,Cable,No,250,10,0.32,1000,10,79.99,12,,,89.99,14.99,,13,13,,,0,1,,107 Taylor Ave
+"Seattle, Xfinity, 400A",Seattle, WA,98109,King,Comcast,Cable,No,400,,0.19,1000,10,74.99,12,,,89.99,14.99,,13,13,,,0,12,,108 Taylor Ave
+"Seattle, Xfinity, 400B",Seattle, WA,98109,King,Comcast,Cable,No,400,,0.28,1000,10,111.95,,,,89.99,,,13,13,,,0,1,,109 Taylor Ave
+"Seattle, Xfinity, 60A",Seattle, WA,98109,King,Comcast,Cable,No,60,5,0.50,1000,10,29.99,12,,,89.99,14.99,,13,13,,,0,12,,102 Taylor Ave
+"Seattle, Xfinity, 60B",Seattle, WA,98109,King,Comcast,Cable,No,60,5,0.83,1000,10,49.99,12,,,89.99,0,,13,13,,,0,1,,103 Taylor Ave
+"Washington, Fios, 100",Washington, DC,20009,District Of Columbia,Verizon,Fiber,No,100,100,1.05,,,104.99,12,10,,39,,12,0,12,,199.99,199.99,1,350,1737 Q St NW
+"Washington, Fios, 100",Washington, DC,20009,District Of Columbia,Verizon,Fiber,No,100,100,1.05,,,104.99,24,10,,39,,12,0,12,,199.99,199.99,1,350,1737 Q St NW
+"Washington, Fios, 1000",Washington, DC,20009,District Of Columbia,Verizon,Fiber,No,940,880,0.14,,,134.99,36,10,,99,,0,0,0,,199.99,199.99,1,350,1737 Q St NW
+"Washington, Fios, 300",Washington, DC,20009,District Of Columbia,Verizon,Fiber,No,300,300,0.68,,,204.99,24,10,,99,,12,0,12,,199.99,199.99,1,350,1737 Q St NW
+"Washington, RCN, 10",Washington, DC,20017,District Of Columbia,Radiate Holdings,Cable,No,10,4,2.00,,,19.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,1350 Jackson St NE
+"Washington, RCN, 1000",Washington, DC,20017,District Of Columbia,Radiate Holdings,Cable,No,1000,20,0.05,,,49.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,1350 Jackson St NE
+"Washington, RCN, 155",Washington, DC,20017,District Of Columbia,Radiate Holdings,Cable,No,155,15,0.19,,,29.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,1350 Jackson St NE
+"Washington, RCN, 330",Washington, DC,20017,District Of Columbia,Radiate Holdings,Cable,No,330,20,0.11,,,34.99,12,,9.99,49.95,,Included in modem fee,10,#VALUE!,,,0,1,,1350 Jackson St NE
+"Washington, Xfinity, 1000A",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,1000,35,0.08,,,79.99,36,,,29.99,14.99,,13,13,,,0,24,,1350 Jackson St NE
+"Washington, Xfinity, 1000B",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,1000,35,0.09,,,89.99,12,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
+"Washington, Xfinity, 15",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,15,2,3.33,,,49.95,,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
+"Washington, Xfinity, 150",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,150,5,0.27,,,39.99,12,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
+"Washington, Xfinity, 2000",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,2000,2000,0.15,,,299.95,24,,,29.99,14.99,,13,13,,,0,24,,1350 Jackson St NE
+"Washington, Xfinity, 250",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,250,10,0.24,,,59.99,24,,,29.99,14.99,,13,13,,,0,12,,1350 Jackson St NE
+"Washington, Xfinity, 400A",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,400,10,0.17,,,69.99,24,,,29.99,14.99,,13,13,,,0,12,,1350 Jackson St NE
+"Washington, Xfinity, 400B",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,400,10,0.20,,,79.99,12,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
+"Washington, Xfinity, 60",Washington, DC,20017,District Of Columbia,Comcast,Cable,No,60,5,0.50,,,29.99,12,,,29.99,14.99,,13,13,,,0,1,,1350 Jackson St NE
+"Wilson, CenturyLink, 20",Wilson, NC,27893,Wilson,CenturyLink,ADSL,No,20,,2.50,,,50,,,,125,,5,15,20,,150,150,1,,Not applicable
+"Wilson, Greenlight 100",Wilson, NC,,Wilson,Greenlight,Fiber,Yes,100,100,0.80,,,79.95,,,,,,,,0,,,0,,,Not applicable
+"Wilson, Greenlight, 1000",Wilson, NC,,Wilson,Greenlight,Fiber,Yes,1000,1000,0.10,,,99.95,,,,,,,,0,,,0,,,Not applicable
+"Wilson, Greenlight, 50",Wilson, NC,,Wilson,Greenlight,Fiber,Yes,50,50,0.80,,,39.95,,,,,,,,0,,,0,,,Not applicable
+"Wilson, Greenlight, 75",Wilson, NC,,Wilson,Greenlight,Fiber,Yes,75,75,0.80,,,59.95,,,,,,,,0,,,0,,,Not applicable
+"Wilson, Spectrum, 200",Wilson, NC,27893,Wilson,Charter,Cable,No,200,10,0.22,,,44.99,,,,49.99,9.99,5,0,5,,,0,1,,311 Pender St SE
+"Wilson, Spectrum, 400",Wilson, NC,27893,Wilson,Charter,Cable,No,400,20,0.23,,,90.99,,,,49.99,9.99,5,0,5,,,0,1,,311 Pender St SE
+"Wilson, Spectrum, 940",Wilson, NC,27893,Wilson,Charter,Cable,No,940,35,0.13,,,125.99,,,,49.99,9.99,0,0,0,,,0,1,,311 Pender St SE
+AT&T Houston,Houston,TX,77002,Harris,AT&T Internet,Fiber,No,75,5,0.73,1000,10,55,12,,,99,,,10,10,,,0,12,180,308 Main St
+Xfiniti Houston,Houston,TX,77002,Harris,Xfiniti,Fiber,No,25,5,3.12,,,77.99,12,,,,,,,0,,,0,12,,308 Main St
+Hughesnet Houston,Houston,TX,77002,Harris,Hughesnet,Satellite,No,25,5,2.80,,,69.99,,,,,,,,0,,,0,24,,308 Main St
+Xfiniti 1000,Houston,TX,77002,Harris,Xfiniti,Fiber,,600,,0.10,,,60,,,,,,,,,,,,12,,308 Main St
+AT&T InternetHouston100,Houston,TX,77002,Harris,AT&T Internet,Fiber,,100,,0.35,,,35,,,,,,,,,,,,12,,308 Main St
+AT&T InternetHouston300,Houston,TX,77002,Harris,AT&T Internet,Fiber,,300,,0.15,,,45,,,,,,,,,,,,12,,308 Main St
+AT&T InternetHouston1000,Houston,TX,77002,Harris,AT&T Internet,Fiber,,1000,,0.06,,,60,,,,,,,,,,,,12,,308 Main St
+XfinitiHouston1000,Houston,TX,77002,Harris,Xfiniti,Fiber,,1000,,0.07,,,70,,,,,,,,,,,,12,,308 Main St
+XfinitiHouston25,Houston,TX,77002,Harris,Xfiniti,Fiber,,25,,0.80,,,19.99,,,,,,,,,,,,12,,308 Main St
+XfinitiHouston100,Houston,TX,77002,Harris,Xfiniti,Fiber,,100,,0.35,,,34.99,,,,,,,,,,,,12,,308 Main St
+XfinitiHouston200,Houston,TX,77002,Harris,Xfiniti,Fiber,,200,,0.25,,,49.99,,,,,,,,,,,,12,,308 Main St
+XfinitiHouston300,Houston,TX,77002,Harris,Xfiniti,Fiber,,300,,0.22,,,64.99,,,,,,,,,,,,12,,308 Main St
+XfinitiHouston600,Houston,TX,77002,Harris,Xfiniti,Fiber,,600,,0.12,,,74.99,,,,,,,,,,,,12,,308 Main St
+XfinitiHouston1000,Houston,TX,77002,Harris,Xfiniti,Fiber,,1000,,0.08,,,84.99,,,,,,,,,,,,12,,308 Main St
+XfinitiHouston2000,Houston,TX,77002,Harris,Xfiniti,Fiber,,2000,,0.15,,,299.95,,,,,,,,,,,,12,,308 Main St
+CenturyLinkHouston100,Houston,TX,77002,Harris,CenturyLink,Fiber,,100,,0.49,,,49,,,,,,,,,,,,12,,77090
+CenturyLinkHouston940,Houston,TX,77090,Harris,CenturyLink,Fiber,,940,,0.07,,,65,,,,,,,,,,,,12,,77090
+SpectrumHouston200,Houston,TX,77090,Harris,Spectrum,Fiber,,200,,0.25,,,49.99,,,,,,,,,,,,12,,308 Main St
+SpectrumHouston400,Houston,TX,77002,Harris,Spectrum,Fiber,,400,,0.17,,,69.99,,,,,,,,,,,,12,,308 Main St
+SpectrumHouston940,Houston,TX,77002,Harris,Spectrum,Fiber,,940,,0.12,,,109.99,,,,,,,,,,,,12,,308 Main St
+SuddenlinkHouston100,Houston,TX,77002,Harris,Suddenlink,,,100,,0.35,,,35,,,,,,,,,,,,12,,308 Main St
+SuddenlinkHouston400,Houston,TX,77002,Harris,Suddenlink,,,400,,0.11,,,45,,,,,,,,,,,,24,,308 Main St
+FrontierHouston6,Houston,TX,77002,Harris,Frontier,,,6,,4.67,,,27.99,,,,,,,,,,,,,,
+FrontierHouston25,Houston,TX,77002,Harris,Frontier,,,25,,1.40,,,34.99,,,,,,,,,,,,,,
+FrontierHouston115,Houston,TX,77002,Harris,Frontier,,,115,,0.39,,,44.99,,,,,,,,,,,,,,
